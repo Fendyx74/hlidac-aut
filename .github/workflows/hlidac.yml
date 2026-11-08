@@ -1,0 +1,45 @@
+name: Hlídač aut
+
+on:
+  schedule:
+    # čas je v UTC: v zimě 7:07, 12:07, 19:07 pražského času, v létě o hodinu později
+    - cron: "7 6,11,18 * * *"
+  workflow_dispatch:        # tlačítko "Run workflow" pro ruční spuštění
+
+permissions:
+  contents: write
+
+concurrency:
+  group: hlidac
+  cancel-in-progress: false
+
+jobs:
+  kontrola:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Knihovny
+        run: pip install requests beautifulsoup4
+
+      - name: Kontrola inzerátů a e-mail
+        env:
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_HESLO: ${{ secrets.SMTP_HESLO }}
+          EMAIL_KOMU: ${{ secrets.EMAIL_KOMU }}
+          WEB_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+        run: python hlidac_aut.py
+
+      - name: Uložit reporty a paměť
+        if: always()
+        run: |
+          git config user.name "hlidac-aut"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs state
+          git commit -m "Kontrola $(TZ=Europe/Prague date +'%d.%m.%Y %H:%M')" || echo "Beze změn"
+          git push
