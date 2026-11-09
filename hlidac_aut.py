@@ -36,81 +36,147 @@ MAIL_TOP = 10          # kolik inzerátů od každého auta dát do e-mailu
 DNY_PAMATOVAT = 30     # jak dlouho si pamatovat inzerát, který zmizel
 PAUZA = 0.7            # sekundy mezi dotazy na web
 MAX_DETAILU = 80       # kolik nových detailů inzerátů max. stáhnout za běh u jednoho auta
-CENA_MIN = 20000       # levnější inzeráty jsou skoro vždy díly, ignorují se
+CENA_MIN = 40000       # levnější inzeráty jsou skoro vždy díly, ignorují se
 
 # Klíče u auta:
 #   id                 krátký název bez mezer, podle něj se jmenují soubory
 #   nazev              nadpis reportu
 #   hledat             fulltext pro Bazoš a Sbazar
+#   bazos_kategorie    značka na Bazoši podle adresy auto.bazos.cz/skoda/  ->  "skoda" (omezí díly z jiných značek)
 #   sauto_model        z adresy sauto.cz/inzerce/osobni/skoda/rapid  ->  "skoda:rapid"
 #   sauto_extra        další parametry Sauto API, např. {"vehicle_body_seo": "kupe"}
-#   sbazar_kategorie   kategorie značky na Sbazaru: Škoda 152, Audi 157, BMW 159 (bez ní se Sbazar přeskočí)
+#   sbazar_kategorie   kategorie značky na Sbazaru: Škoda 152, VW 155, Audi 157, BMW 159 (bez ní se Sbazar přeskočí)
 #   autobazar_model    z adresy autobazar.eu/vysledky/osobne-vozidla/skoda/rapid/  ->  "skoda/rapid"
-#   mobile_url         celá adresa hledání z suchen.mobile.de (nastav filtry na webu a zkopíruj adresu)
+#   mobile_url         celá adresa hledání z suchen.mobile.de (servery GitHubu mobile.de blokuje, funguje jen z domu)
 #   otomoto_url        celá adresa hledání z otomoto.pl (stejně tak)
 #   musi_obsahovat     stačí jedno slovo, hledá se v názvu i popisu
+#   musi_v_nazvu       nepovinné, aspoň jedno z těchto slov musí být přímo v názvu (např. řada modelu)
 #   nesmi_obsahovat    hledá se jen v názvu
 #   kw                 seznam povolených výkonů, None = nekontrolovat
 #   rok_od, cena_do    cena v Kč
 #   jen_manual         True = vyřadit inzeráty, kde je uvedený automat
 #   karoserie          např. ["kupe", "coupe"]; když ji zdroj uvádí, musí sedět (a nahradí klíčové slovo)
 # Klíč zdroje vynech nebo dej None, když ho pro dané auto nechceš.
+MOBILE = "https://suchen.mobile.de/fahrzeuge/search.html?dam=false&isSearchRequest=true&s=Car&vc=Car&sb=p&od=up"
+OTOMOTO = "&search%5Bfilter_enum_gearbox%5D=manual&search%5Bfilter_float_price%3Ato%5D=34000&search%5Border%5D=filter_float_price%3Aasc"
+DILY = ["dily", "dil", "nahradni", "rozprodam", "vrakovisko", "havarovane"]
 AUTA = [
     {
         "id": "rapid-mc",
         "nazev": "Škoda Rapid Monte Carlo 81 kW, 2015+",
         "hledat": "rapid monte carlo",
+        "bazos_kategorie": "skoda",
         "sauto_model": "skoda:rapid",
+        "sauto_extra": {"phrase": "monte carlo"},
         "sbazar_kategorie": 152,
         "autobazar_model": "skoda/rapid",
         "musi_obsahovat": ["monte carlo", "montecarlo"],
-        "nesmi_obsahovat": ["1.4", "1,4", "dily", "dil", "nahradni", "rozprodam"],
+        "nesmi_obsahovat": ["1.4", "1,4"] + DILY,
         "kw": [81],
         "rok_od": 2015,
         "cena_do": 350000,
-        "jen_manual": False,
-        "karoserie": None,
+    },
+    {
+        "id": "scala",
+        "nazev": "Škoda Scala, do 350 000 Kč",
+        "hledat": "scala",
+        "bazos_kategorie": "skoda",
+        "sauto_model": "skoda:scala",
+        "sbazar_kategorie": 152,
+        "autobazar_model": "skoda/scala",
+        "musi_obsahovat": ["scala"],
+        "nesmi_obsahovat": DILY,
+        "rok_od": 2019,
+        "cena_do": 350000,
+    },
+    {
+        "id": "fabia",
+        "nazev": "Škoda Fabia 2015+, do 350 000 Kč",
+        "hledat": "fabia",
+        "bazos_kategorie": "skoda",
+        "sauto_model": "skoda:fabia",
+        "sbazar_kategorie": 152,
+        "autobazar_model": "skoda/fabia",
+        "musi_obsahovat": ["fabia"],
+        "nesmi_obsahovat": DILY,
+        "rok_od": 2015,
+        "cena_do": 350000,
     },
     {
         "id": "bmw-1-coupe",
-        "nazev": "BMW řady 1 Coupé (E82), manuál, do 200 000 Kč",
-        "hledat": "bmw coupe",
+        "nazev": "BMW 1 Coupé (E82), manuál, do 200 000 Kč",
+        "hledat": "coupe",
+        "bazos_kategorie": "bmw",
         "sauto_model": "bmw:rada-1",
         "sauto_extra": {"vehicle_body_seo": "kupe"},
         "sbazar_kategorie": 159,
         "autobazar_model": "bmw/rad-1",
-        "mobile_url": ("https://suchen.mobile.de/fahrzeuge/search.html?dam=false&isSearchRequest=true&s=Car&vc=Car"
-                       "&ms=3500%3B%3B20%3B&c=SportsCar&tr=MANUAL_GEAR&p=%3A8000&fr=2007%3A&sb=p&od=up"),
         "otomoto_url": ("https://www.otomoto.pl/osobowe/bmw/seria-1/od-2007?search%5Bfilter_enum_body_type%5D=coupe"
-                        "&search%5Bfilter_enum_gearbox%5D=manual&search%5Bfilter_float_price%3Ato%5D=34000"
-                        "&search%5Border%5D=filter_float_price%3Aasc"),
+                        + OTOMOTO),
         "musi_obsahovat": ["coupe", "kupe", "e82"],
-        "nesmi_obsahovat": ["cabrio", "kabrio", "kabriolet", "dily", "dil", "rozprodam"],
-        "kw": None,
+        "musi_v_nazvu": ["e82", "114", "116", "118", "120", "123", "125", "128", "135",
+                         "rada 1", "rad 1", "seria 1", "1er", "1 series"],
+        "nesmi_obsahovat": ["cabrio", "kabrio", "kabriolet", "e88", "e92", "e90", "rada 3", "rad 3", "seria 3",
+                            "3er"] + DILY,
         "rok_od": 2007,
         "cena_do": 200000,
         "jen_manual": True,
         "karoserie": ["kupe", "coupe"],
     },
     {
-        "id": "audi-tt-8j",
-        "nazev": "Audi TT 8J Coupé, manuál, do 200 000 Kč",
-        "hledat": "audi tt",
-        "sauto_model": "audi:tt",
-        "sbazar_kategorie": 157,
-        "autobazar_model": "audi/tt-coupe",
-        "mobile_url": ("https://suchen.mobile.de/fahrzeuge/search.html?dam=false&isSearchRequest=true&s=Car&vc=Car"
-                       "&ms=1900%3B23%3B%3B&c=SportsCar&tr=MANUAL_GEAR&p=%3A8000&fr=2006%3A&sb=p&od=up"),
-        "otomoto_url": ("https://www.otomoto.pl/osobowe/audi/tt/od-2006?search%5Bfilter_enum_body_type%5D=coupe"
-                        "&search%5Bfilter_enum_gearbox%5D=manual&search%5Bfilter_float_price%3Ato%5D=34000"
-                        "&search%5Border%5D=filter_float_price%3Aasc"),
-        "musi_obsahovat": ["tt"],
-        "nesmi_obsahovat": ["roadster", "dily", "dil", "rozprodam"],
-        "kw": None,
+        "id": "bmw-3-coupe",
+        "nazev": "BMW 3 Coupé (E92), manuál, do 200 000 Kč",
+        "hledat": "coupe",
+        "bazos_kategorie": "bmw",
+        "sauto_model": "bmw:rada-3",
+        "sauto_extra": {"vehicle_body_seo": "kupe"},
+        "sbazar_kategorie": 159,
+        "autobazar_model": "bmw/rad-3",
+        "otomoto_url": ("https://www.otomoto.pl/osobowe/bmw/seria-3/od-2006?search%5Bfilter_enum_body_type%5D=coupe"
+                        + OTOMOTO),
+        "musi_obsahovat": ["coupe", "kupe", "e92"],
+        "musi_v_nazvu": ["e92", "316", "318", "320", "323", "325", "328", "330", "335",
+                         "rada 3", "rad 3", "seria 3", "3er", "3 series"],
+        "nesmi_obsahovat": ["cabrio", "kabrio", "kabriolet", "e93", "e46", "e36", "e90", "e91", "touring",
+                            "compact", "e82", "e87", "rada 1", "rad 1", "seria 1", "1er"] + DILY,
         "rok_od": 2006,
         "cena_do": 200000,
         "jen_manual": True,
-        "karoserie": None,
+        "karoserie": ["kupe", "coupe"],
+    },
+    {
+        "id": "golf-7",
+        "nazev": "VW Golf 7 hatchback, manuál, do 200 000 Kč",
+        "hledat": "golf",
+        "bazos_kategorie": "volkswagen",
+        "sauto_model": "volkswagen:golf",
+        "sauto_extra": {"vehicle_body_seo": "hatchback"},
+        "sbazar_kategorie": 155,
+        "autobazar_model": "volkswagen/golf",
+        "otomoto_url": ("https://www.otomoto.pl/osobowe/volkswagen/golf/od-2013?search%5Bfilter_enum_body_type%5D=compact"
+                        + OTOMOTO),
+        "musi_obsahovat": ["golf"],
+        "nesmi_obsahovat": ["variant", "kombi", "combi", "sportsvan", "golf plus", "cabrio", "golf 8", "golf viii"] + DILY,
+        "rok_od": 2013,
+        "cena_do": 200000,
+        "jen_manual": True,
+        "karoserie": ["hatchback", "kompakt", "compact"],
+    },
+    {
+        "id": "audi-tt-8j",
+        "nazev": "Audi TT 8J Coupé, manuál, do 200 000 Kč",
+        "hledat": "tt",
+        "bazos_kategorie": "audi",
+        "sauto_model": "audi:tt",
+        "sbazar_kategorie": 157,
+        "autobazar_model": "audi/tt-coupe",
+        "otomoto_url": ("https://www.otomoto.pl/osobowe/audi/tt/od-2006?search%5Bfilter_enum_body_type%5D=coupe"
+                        + OTOMOTO),
+        "musi_obsahovat": ["tt"],
+        "nesmi_obsahovat": ["roadster", "cabrio", "kabrio", "kabriolet"] + DILY,
+        "rok_od": 2006,
+        "cena_do": 200000,
+        "jen_manual": True,
     },
 ]
 # =============================================
@@ -158,7 +224,8 @@ def obsahuje(text, slovo):
     if len(s) >= 6 and not s[0].isdigit():
         return s in text              # dlouhé slovo stačí jako podřetězec ("1.0tsi81kwmontecarlo")
     vlevo = r"(?<![a-z0-9.,])" if s[0].isdigit() else r"(?<![a-z0-9])"
-    vpravo = r"(?!\d|[.,]\d)" if s[-1].isdigit() else r"(?![a-z0-9])"
+    # číslo nesmí pokračovat číslicí ani jednotkou: "120" sedí na "120d", ne na "120 kw" nebo "120 000 km"
+    vpravo = r"(?!\d|[.,]\d|\s?(?:kw|ps|hp|nm|km|tis|xxx|\d{3}))" if s[-1].isdigit() else r"(?![a-z0-9])"
     return re.search(vlevo + re.escape(s) + vpravo, text) is not None
 
 
@@ -286,13 +353,19 @@ def inzerat(zdroj, nazev, url, cena, mena, rok=None, km=None, kw=None, lokalita=
 def bazos(auto):
     if not auto.get("hledat"):
         return []
+    kategorie = (auto.get("bazos_kategorie") or "").strip("/")
     vysledky, videne = [], set()
     for crz in range(0, 400, 40):
-        url = "https://auto.bazos.cz/" + (f"{crz}/" if crz else "")
-        params = {"hledat": auto["hledat"], "rubriky": "auto", "hlokalita": "", "humkreis": "25",
-                  "cenaod": "", "cenado": auto.get("cena_do") or "", "Submit": "Hledat", "kitx": "ano"}
+        url = "https://auto.bazos.cz/" + (kategorie + "/" if kategorie else "") + (f"{crz}/" if crz else "")
+        params = {"hledat": auto["hledat"], "hlokalita": "", "humkreis": "25", "cenaod": "",
+                  "cenado": auto.get("cena_do") or ""}
+        if crz:
+            params["order"] = ""            # s Submit/kitx by Bazoš vrátil zase první stránku
+        else:
+            params.update({"rubriky": "auto", "Submit": "Hledat", "kitx": "ano"})
         bloky = BeautifulSoup(get(url, params=params).text, "html.parser").select("div.inzeraty")
         log(f"  Bazoš od {crz}: {len(bloky)} inzerátů")
+        nove = 0
         for b in bloky:
             a = b.select_one("h2.nadpis a")
             if not a or not a.get("href"):
@@ -301,6 +374,7 @@ def bazos(auto):
             if url_i in videne:
                 continue
             videne.add(url_i)
+            nove += 1
             nazev = a.get_text(" ", strip=True)
             popis = text_z(b.select_one("div.popis"))
             cena, mena = cena_z_textu(text_z(b.select_one("div.inzeratycena")))
@@ -309,7 +383,7 @@ def bazos(auto):
                                     najdi_km(popis), najdi_kw(nazev, popis), lokalita, popis,
                                     najdi_prevodovku(nazev, popis), detail=("bazos", url_i),
                                     text_lze_doplnit=True))
-        if len(bloky) < 40:
+        if len(bloky) < 40 or not nove:
             break
         time.sleep(PAUZA)
     return vysledky
@@ -321,7 +395,16 @@ def sauto(auto):
     extra = dict(auto.get("sauto_extra") or {})
     if auto.get("jen_manual"):
         extra.setdefault("gearbox_seo", "manualni")
+    if auto.get("rok_od"):
+        extra.setdefault("vehicle_age_from", auto["rok_od"])
+    extra.setdefault("operating_lease", "false")
     karoserie = extra.get("vehicle_body_seo")
+    kw_pevny = None
+    if auto.get("kw"):                    # Sauto umí filtrovat výkon přímo, detail pak není potřeba
+        extra.setdefault("engine_power_from", min(auto["kw"]))
+        extra.setdefault("engine_power_to", max(auto["kw"]))
+        if len(auto["kw"]) == 1:
+            kw_pevny = auto["kw"][0]
     vysledky, videne = [], set()
     for offset in range(0, 2000, 100):
         params = {"limit": 100, "offset": offset, "category_id": 838,
@@ -346,7 +429,7 @@ def sauto(auto):
                 "Sauto.cz", nazev, f"https://www.sauto.cz/osobni/detail/{vyrobce}/{model}/{p.get('id')}",
                 None if p.get("price_by_agreement") else p.get("price"), "CZK",
                 int(m.group(1)) if m else najdi_rok(nazev),
-                p.get("tachometer"), p.get("engine_power") or najdi_kw(nazev),
+                p.get("tachometer"), p.get("engine_power") or kw_pevny or najdi_kw(nazev),
                 lok.get("municipality") or lok.get("district") or lok.get("region") or "",
                 prevodovka=prevodovka_ze_slova((p.get("gearbox_cb") or {}).get("seo_name", "")),
                 karoserie=karoserie,
@@ -396,7 +479,7 @@ def autobazar(auto):
         return []
     vysledky, videne = [], set()
     for strana in range(1, 21):
-        params = {"page": strana}
+        params = {"page": strana} if strana > 1 else {}    # page=1 vrací 404
         if auto.get("cena_do"):
             params["priceTo"] = int(auto["cena_do"] / KURZY["EUR"]) + 1
         if auto.get("rok_od"):
@@ -579,6 +662,8 @@ def duvod_vyrazeni(auto, i, konecne=True):
     nazev = norm(i["nazev"])
     if any(obsahuje(nazev, s) for s in auto.get("nesmi_obsahovat", [])):
         return "zakázané slovo v názvu"
+    if auto.get("musi_v_nazvu") and not any(obsahuje(nazev, s) for s in auto["musi_v_nazvu"]):
+        return "jiný model"
     if auto.get("cena_do") and i["cena_czk"] and i["cena_czk"] > auto["cena_do"]:
         return "vyšší cena"
     if i["cena_czk"] and i["cena_czk"] < CENA_MIN:
@@ -593,6 +678,8 @@ def duvod_vyrazeni(auto, i, konecne=True):
         return "jiná karoserie"
     if (konecne or not i["text_lze_doplnit"]) and not ma_klicove_slovo(auto, i):
         return "chybí klíčové slovo"
+    if konecne and not i["rok"] and not i["km"] and not i["text_lze_doplnit"]:
+        return "bez roku i nájezdu (díl?)"
     return None
 
 
