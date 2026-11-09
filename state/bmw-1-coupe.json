@@ -61,7 +61,7 @@
    "videno": "2026-11-09"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-OLX_ID6IiZFn.html": {
-   "cena": 69444,
+   "cena": 66666,
    "videno": "2026-11-09"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6Ia8Um.html": {
@@ -251,6 +251,26 @@
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6I1ZDk.html": {
    "cena": 127232,
    "videno": "2026-11-09"
+  },
+  "https://www.autobazar.eu/detail/bmw-rad-1-116d-d/Ae77amF2noj/": {
+   "cena": 55710,
+   "videno": "2026-11-09"
+  },
+  "https://auto.bazos.cz/inzerat/225372642/bmw-116i-e81-coupe-90-kw.php": {
+   "cena": 70000,
+   "videno": "2026-11-09"
+  },
+  "https://auto.bazos.cz/inzerat/225477816/bmw-e82-120d-coupe-2009.php": {
+   "cena": 130000,
+   "videno": "2026-11-09"
+  },
+  "https://auto.bazos.cz/inzerat/225693274/bmw-e82-coupe.php": {
+   "cena": 155000,
+   "videno": "2026-11-09"
+  },
+  "https://auto.bazos.cz/inzerat/225155424/bmw-e82-123d-150kw.php": {
+   "cena": 199999,
+   "videno": "2026-11-09"
   }
  },
  "detaily": {
@@ -413,17 +433,46 @@
    "kw": 120,
    "prevodovka": null,
    "videno": "2026-11-09"
+  },
+  "https://auto.bazos.cz/inzerat/225693274/bmw-e82-coupe.php": {
+   "popis": "R.v.2010 2.0 125kw Dovoz Belgie Bez koroze Stk 10/28 2x klíč Přihlášení 800kč Více informací volat",
+   "rok": 2010,
+   "km": null,
+   "kw": 125,
+   "prevodovka": null,
+   "videno": "2026-11-09"
+  },
+  "https://auto.bazos.cz/inzerat/225477816/bmw-e82-120d-coupe-2009.php": {
+   "popis": "🏁 BMW 120d COUPÉ M SPORTPAKET | 130 kW | 177 koní 🖤 Sportovní vzhled • Černá metalíza • 6stupňový manuál Prodám BMW řady 1 Coupé 120d s atraktivním M sportpaketem. Výkonný dvoulitrový diesel o výkonu 130 kW (177 koní), šestistupňová manuální převodovka. ━━━━━━━━━━━━━━━━━━ 📋 ZÁKLADNÍ INFORMACE 📅 Rok výroby: 06/2009 🛣️ Najeto: 288xxx km ⚙️ Motor: 2.0 diesel, 130 kW (177 koní) 🕹️ Převodovka: 6stupňová manuální 🎨 Barva: černá metalíza 🚘 Karoserie:Coupé 🏁 Výbava: M sportpaket ━━━━━━━━━━━━━━━━━━ 🔧 SERVIS A PROVEDENÉ ÚPRAVY ✅ Opravená převodovka ✅ Vyměněná spojka ✅ Baterie přibližně 1 rok stará ✅ Letní pneumatiky přibližně 1 rok staré a zimní pneu na sezonu na hliníkových discích ✅ Zatmavená zadní okna ✅ Zatmavená zadní světla ✅ Dodatečné ambientní osvětlení interiéru ✅snížený podvozek a dvourozměrná kola ✅m packet,m kryty zrcátek ✅přidám k tomu světla angel eyes které jsem chtěl vyměnit ━━━━━━━━━━━━━━━━━━ ✨ VÝBAVA ❄️ Vyhřívaná přední sedadla 🌡️ Automatická klimatizace 🎵 Audio systém BMW Business CD 🛞 Hliníková kola 🅿️ Zadní parkovací senzory 🎛️ Kožený multifunkční volant 🪟 Elektrická okna a zrcátka 📊 Palubní počítač 💡 LED zadní světla 🛡️ ABS, ESP a kontrola trakce 🔒 Centrální zamykání 👶 Isofix ♻️ Start/Stop systém Případné kosmetické nedostatky odpovídající stáří vozidla. Zájemci rád poskytnu další informace při osobní prohlídce a doložení faktur. 🤝 Při seriózním jednání možná dohoda.",
+   "rok": 2009,
+   "km": 288000,
+   "kw": 130,
+   "prevodovka": "manual",
+   "videno": "2026-11-09"
+  },
+  "https://auto.bazos.cz/inzerat/225372642/bmw-116i-e81-coupe-90-kw.php": {
+   "popis": "BMW 116i E81 coupe, 90 kW, Uvedení do provozu 9/2008 Motor: N43B16, objem: 1.6l, palivo: benzín Manuální 6st. převodovka Barva: černá (Black Sapphire) Počet dveří: 3 Najeto nyní 212xxx km STK do 05/2027 Vyhřívané přední sedačky Elektricky ovládané přední okna Klimatizace Tempomat 2x klíč Zatmavené zadní skla Silnější zadní LED světla 2x 300W subwoofer navíc - nezapojeno Osvětlení klik - Lichtpaket Auto je nyní bez investic - dělalo se nové ventilové víko, všechny tlumiče, svíčky, čerstvě proběhla i výměna oleje a filtru. K autu je i sada zimních kol.",
+   "rok": null,
+   "km": 212000,
+   "kw": 90,
+   "prevodovka": "manual",
+   "videno": "2026-11-09"
+  },
+  "https://auto.bazos.cz/inzerat/225155424/bmw-e82-123d-150kw.php": {
+   "popis": "Prodám bmw e82 coupe 123d 150kw Auto je v krásném stavu Nová STK Motor n47d20b 1000km zpět  -  nové rozvody , hlavní a ojniční ložiska , olejové čerpadlo a komplet těsnění Bohatá výbava Xenon Aktivní řízení Multifunkční volant Tempomat Keyless - Bezklíčkové odemykání a startování Elektronicky sklopná zrcátka Panoramatické střešní okno - elektrické Vyhřívané sedačky Automatické svícení Elektricky ovládané sedačky Najeto 335tkm Podvozkově perfektní bez vůlí 99% bez koroze Bmw e81 e82 e87 e88 120d 123d",
+   "rok": null,
+   "km": 335000,
+   "kw": 150,
+   "prevodovka": null,
+   "videno": "2026-11-09"
   }
  },
  "souhrn": {
-  "kontrola": "09.11.2026 17:03",
-  "vyhovuje": 62,
-  "nove": 4,
+  "kontrola": "09.11.2026 21:21",
+  "vyhovuje": 49,
+  "nove": 5,
   "zlevnene": 1,
-  "nejlevnejsi": 20000,
-  "chyby": [
-   "Autobazar.eu: 404 Client Error: Not Found for url: https://www.autobazar.eu/vysledky/osobne-vozidla/bmw/rad-1/?page=1&priceTo=8211&yearFrom=2007",
-   "mobile.de: 403 Client Error: Forbidden for url: https://suchen.mobile.de/fahrzeuge/search.html?dam=false&isSearchRequest=true&s=Car&vc=Car&ms=3500%3B%3B20%3B&c=SportsCar&tr=MANUAL_GEAR&p=%3A8000&fr=2007%3A&sb=p&od=up&pageNumber=1"
-  ]
+  "nejlevnejsi": 44448,
+  "chyby": []
  }
 }
