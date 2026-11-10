@@ -133,7 +133,7 @@
    "videno": "2026-11-10"
   },
   "https://www.autobazar.eu/detail/skoda-rapid-12-tsi-110k-monte-carlo-81kw110hp-m6/AevKR7-T6wh/": {
-   "cena": 133980,
+   "cena": 133842,
    "videno": "2026-11-10"
   },
   "https://auto.bazos.cz/inzerat/223696535/skoda-rapid-monte-carlo-12tsi-servisni-historie.php": {
@@ -141,15 +141,15 @@
    "videno": "2026-11-10"
   },
   "https://www.autobazar.eu/detail/skoda-rapid-10-tsimonte-carlo-park-senzory/AmvcFWlnr5o/": {
-   "cena": 192444,
+   "cena": 192246,
    "videno": "2026-11-10"
   },
   "https://www.autobazar.eu/detail/skoda-rapid-10-tsimonte-carlo-servkniha/Am6RLMgh6P0/": {
-   "cena": 202188,
+   "cena": 201980,
    "videno": "2026-11-10"
   },
   "https://www.autobazar.eu/detail/skoda-rapid-12-tsi-110k-monte-carlo-81kw110hp-m6/AeBcmsEa0_-/": {
-   "cena": 207060,
+   "cena": 206847,
    "videno": "2026-11-10"
   },
   "https://auto.bazos.cz/inzerat/224696854/skoda-rapid-10-tsi-81kw-monte-carlo.php": {
@@ -165,11 +165,11 @@
    "videno": "2026-11-10"
   },
   "https://www.autobazar.eu/detail/skoda-rapid-10-tsimonte-carlo-tempomat/AmRszv5tiTa/": {
-   "cena": 260652,
+   "cena": 260384,
    "videno": "2026-11-10"
   },
   "https://www.autobazar.eu/detail/skoda-rapid-10-tsimonte-carlo-cr2maj/AmFrrNbFnms/": {
-   "cena": 260652,
+   "cena": 260384,
    "videno": "2026-11-10"
   },
   "https://auto.bazos.cz/inzerat/224358948/skoda-rapid-monte-carlo-10-tsi-81kw-keyless.php": {
@@ -177,23 +177,23 @@
    "videno": "2026-11-10"
   },
   "https://www.autobazar.eu/detail/skoda-rapid-10-tsimonte-carlo-cr2maj/Am3VfpguU0_/": {
-   "cena": 270396,
+   "cena": 270118,
    "videno": "2026-11-10"
   },
   "https://www.autobazar.eu/detail/skoda-rapid-10-tsimonte-carlo-navi-tempomat/Amxtx8RGF9w/": {
-   "cena": 280140,
+   "cena": 279852,
    "videno": "2026-11-10"
   },
   "https://www.autobazar.eu/detail/skoda-rapid-10-tsimonte-carlo-automat-xenony/AmM1l6QUTU0/": {
-   "cena": 302064,
+   "cena": 301754,
    "videno": "2026-11-10"
   },
   "https://www.autobazar.eu/detail/skoda-rapid-10-tsimonte-carlo-automat-cr/AmJDcd1AF-Y/": {
-   "cena": 302064,
+   "cena": 301754,
    "videno": "2026-11-10"
   },
   "https://www.autobazar.eu/detail/skoda-rapid-10-tsimonte-carlo-automat-cr/Am2RnBIYcLq/": {
-   "cena": 311808,
+   "cena": 311488,
    "videno": "2026-11-10"
   }
  },
@@ -466,10 +466,10 @@
   }
  },
  "souhrn": {
-  "kontrola": "10.11.2026 02:27",
-  "vyhovuje": 40,
+  "kontrola": "10.11.2026 15:47",
+  "vyhovuje": 39,
   "nove": 0,
-  "zlevnene": 0,
+  "zlevnene": 11,
   "nejlevnejsi": 85000,
   "chyby": []
  }
