@@ -173,7 +173,7 @@
    "videno": "2026-11-10"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IhA3t.html": {
-   "cena": 154980,
+   "cena": 154868,
    "videno": "2026-11-12"
   },
   "https://auto.bazos.cz/inzerat/223844034/bmw-e92-coupe-320xd-lci-m-paket.php": {
@@ -185,11 +185,11 @@
    "videno": "2026-11-09"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6Ighaa.html": {
-   "cena": 159961,
+   "cena": 159845,
    "videno": "2026-11-12"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IdjwI.html": {
-   "cena": 166044,
+   "cena": 165924,
    "videno": "2026-11-12"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6Ii5E1.html": {
@@ -197,7 +197,7 @@
    "videno": "2026-11-11"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IhbtP.html": {
-   "cena": 166050,
+   "cena": 165930,
    "videno": "2026-11-12"
   },
   "https://auto.bazos.cz/inzerat/226154048/vw-tiguan-20tdi-125kw-6q-manual-4x4.php": {
@@ -205,15 +205,15 @@
    "videno": "2026-11-08"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IhVQN.html": {
-   "cena": 171579,
+   "cena": 171455,
    "videno": "2026-11-12"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IcEKn.html": {
-   "cena": 171585,
+   "cena": 171461,
    "videno": "2026-11-12"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IhG3W.html": {
-   "cena": 173245,
+   "cena": 173120,
    "videno": "2026-11-12"
   },
   "https://auto.bazos.cz/inzerat/225701054/bmw-120d-cupe-mpaket-130kw.php": {
@@ -221,19 +221,19 @@
    "videno": "2026-11-12"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6Ig6Zs.html": {
-   "cena": 176566,
+   "cena": 176438,
    "videno": "2026-11-12"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6Ijiv3.html": {
-   "cena": 160515,
+   "cena": 160399,
    "videno": "2026-11-12"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IjkK0.html": {
-   "cena": 179887,
+   "cena": 179757,
    "videno": "2026-11-12"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IhOh0.html": {
-   "cena": 179887,
+   "cena": 179757,
    "videno": "2026-11-12"
   },
   "https://auto.bazos.cz/inzerat/226182103/original-alu-kola-bmw-1-f40-2-gran-coupe-f44-2054518.php": {
@@ -285,7 +285,7 @@
    "videno": "2026-11-12"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IhRhE.html": {
-   "cena": 198706,
+   "cena": 198562,
    "videno": "2026-11-12"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6I3oqO.html": {
@@ -508,13 +508,11 @@
   }
  },
  "souhrn": {
-  "kontrola": "12.11.2026 01:36",
+  "kontrola": "12.11.2026 16:05",
   "vyhovuje": 17,
   "nove": 0,
-  "zlevnene": 0,
-  "nejlevnejsi": 154980,
-  "chyby": [
-   "Autobazar.eu: HTTPSConnectionPool(host='www.autobazar.eu', port=443): Max retries exceeded with url: /vysledky/osobne-vozidla/bmw/rad-1/?priceTo=9434&priceFrom=6152&yearFrom=2007 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.autobazar.eu', port=443) at 0x7fcd90de4c20>, 'Connection to www.autobazar.eu timed out. (connect timeout=30)'))"
-  ]
+  "zlevnene": 12,
+  "nejlevnejsi": 154868,
+  "chyby": []
  }
 }

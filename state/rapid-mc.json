@@ -149,8 +149,8 @@
    "videno": "2026-11-10"
   },
   "https://www.autobazar.eu/detail/skoda-rapid-12-tsi-110k-monte-carlo-81kw110hp-m6/AeBcmsEa0_-/": {
-   "cena": 207230,
-   "videno": "2026-11-11"
+   "cena": 207272,
+   "videno": "2026-11-12"
   },
   "https://auto.bazos.cz/inzerat/224696854/skoda-rapid-10-tsi-81kw-monte-carlo.php": {
    "cena": 229000,
@@ -499,16 +499,22 @@
    "kw": null,
    "prevodovka": null,
    "videno": "2026-11-12"
+  },
+  "https://auto.bazos.cz/inzerat/226334479/96000-km-skoda-rapid-monte-carlo-12-tsi-ea211-s-historii.php": {
+   "popis": "Prodávám tento velmi pěkný Škoda Rapid Spaceback z roku 2015 s naprosto jasnou historií. Auto je vybaveno již novějším motorem TSI 1,2 s bezproblémovými rozvody řemenem, po celou dobu pravidelně servisován v autorizovaném servise Škoda, nyní má najeto pouze 96tisíc kilometrů se zárukou do kupní smlouvy. Nehavarované, nelakované, naprosto bez koroze, garážované. Plná edice Monte Carlo vč. sportovních sedadel, parkovacích senzorů, klimatizace, vyhřívaných sedaček, navigace, xenonových světlometů, bezklíčového ovládání. Po technické stránce je vůz v naprostém pořádku. Spotřeba se pohybuje kolem 5,5 litru benzínu na 100km. Vůz je okamžitě k dispozici a je možné s ním ihned odjet. Přepis 800,- Kč, žádné další poplatky se neplatí. Nová STK na 2 roky. Kompletní dokumentace k vozu, faktury ze servisu, záznamy z STK, servisní knížka a mnoho dalšího. Výbava: 8x airbag ABS ESP Klimatizace Vyhřívaná sedadla El. okna El. zrcátka Centrální zamykání na dálku Imobilizér Start Stop Mlhovky vpředu Denní svícení Xenonové světlomety Originál autorádio (MP3, USB) ISOFIX Nastavitelný volant Výškově stavitelné sedačky Parkovací senzory vpředu i vzadu Satelitní navigace Panoramatická střecha Front Assist Tempomat Přísvit do zatáčky Senzor deště atd.",
+   "rok": null,
+   "km": null,
+   "kw": null,
+   "prevodovka": null,
+   "videno": "2026-11-12"
   }
  },
  "souhrn": {
-  "kontrola": "12.11.2026 01:33",
+  "kontrola": "12.11.2026 16:04",
   "vyhovuje": 9,
-  "nove": 1,
+  "nove": 0,
   "zlevnene": 0,
   "nejlevnejsi": 159999,
-  "chyby": [
-   "Autobazar.eu: HTTPSConnectionPool(host='www.autobazar.eu', port=443): Max retries exceeded with url: /vysledky/osobne-vozidla/skoda/rapid/?priceTo=9434&priceFrom=6152&yearFrom=2015 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.autobazar.eu', port=443) at 0x7fcd91a3b9e0>, 'Connection to www.autobazar.eu timed out. (connect timeout=30)'))"
-  ]
+  "chyby": []
  }
 }
