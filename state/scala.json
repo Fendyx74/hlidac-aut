@@ -3231,6 +3231,10 @@
   "https://www.sauto.cz/osobni/detail/skoda/scala/211441809": {
    "cena": 210000,
    "videno": "2026-11-12"
+  },
+  "https://www.autobazar.eu/detail/skoda-scala-10-tsiambition-cr1maj-tempomat/AmDh8JsFTCZ/": {
+   "cena": 214588,
+   "videno": "2026-11-12"
   }
  },
  "detaily": {
@@ -4452,7 +4456,7 @@
   }
  },
  "souhrn": {
-  "kontrola": "12.11.2026 16:04",
+  "kontrola": "13.11.2026 00:31",
   "vyhovuje": 84,
   "nove": 1,
   "zlevnene": 0,

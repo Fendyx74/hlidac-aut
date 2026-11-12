@@ -508,11 +508,13 @@
   }
  },
  "souhrn": {
-  "kontrola": "12.11.2026 16:05",
+  "kontrola": "13.11.2026 00:32",
   "vyhovuje": 17,
   "nove": 0,
-  "zlevnene": 12,
+  "zlevnene": 0,
   "nejlevnejsi": 154868,
-  "chyby": []
+  "chyby": [
+   "Autobazar.eu: stránka nemá __NEXT_DATA__ (změna webu nebo blokace)"
+  ]
  }
 }
