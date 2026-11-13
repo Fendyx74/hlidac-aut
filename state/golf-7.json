@@ -2089,7 +2089,7 @@
    "videno": "2026-11-10"
   },
   "https://www.autobazar.eu/detail/volkswagen-golf-16-tdi-bmt-110k-comfortline-eu6/Am0XKmMtP9B/": {
-   "cena": 185385,
+   "cena": 178058,
    "videno": "2026-11-13"
   },
   "https://auto.bazos.cz/inzerat/224404844/prodam-pekny-a-zachovaly-volkswagen-golf-12-tsi-rok-vyroby.php": {
@@ -3165,7 +3165,7 @@
    "videno": "2026-11-13"
   },
   "https://www.otomoto.pl/osobowe/oferta/volkswagen-golf-OLX_ID6IjpgE.html": {
-   "cena": 198850,
+   "cena": 187772,
    "videno": "2026-11-13"
   },
   "https://www.otomoto.pl/osobowe/oferta/volkswagen-golf-OLX_ID6IiHmi.html": {
@@ -3189,7 +3189,7 @@
    "videno": "2026-11-13"
   },
   "https://www.otomoto.pl/osobowe/oferta/volkswagen-golf-ID6IjvUN.html": {
-   "cena": 198850,
+   "cena": 193311,
    "videno": "2026-11-13"
   },
   "https://www.otomoto.pl/osobowe/oferta/volkswagen-golf-ID6IjlOO.html": {
@@ -3301,11 +3301,11 @@
    "videno": "2026-11-13"
   },
   "https://www.otomoto.pl/osobowe/oferta/volkswagen-golf-ID6IiugW.html": {
-   "cena": 204937,
+   "cena": 204322,
    "videno": "2026-11-13"
   },
   "https://www.otomoto.pl/osobowe/oferta/volkswagen-golf-ID6IcG1v.html": {
-   "cena": 204943,
+   "cena": 191095,
    "videno": "2026-11-13"
   },
   "https://www.otomoto.pl/osobowe/oferta/volkswagen-golf-ID6IcYh4.html": {
@@ -3325,7 +3325,7 @@
    "videno": "2026-11-13"
   },
   "https://www.otomoto.pl/osobowe/oferta/volkswagen-golf-OLX_ID6Ijz62.html": {
-   "cena": 209374,
+   "cena": 204943,
    "videno": "2026-11-13"
   },
   "https://www.otomoto.pl/osobowe/oferta/volkswagen-golf-ID6IhBvW.html": {
@@ -3509,7 +3509,7 @@
    "videno": "2026-11-13"
   },
   "https://www.otomoto.pl/osobowe/oferta/volkswagen-golf-ID6Ii61u.html": {
-   "cena": 221006,
+   "cena": 209374,
    "videno": "2026-11-13"
   },
   "https://www.otomoto.pl/osobowe/oferta/volkswagen-golf-ID6IiVMQ.html": {
@@ -4142,6 +4142,62 @@
   },
   "https://www.autobazar.eu/detail/volkswagen-golf-12-tsi-bmt-comfortline-eu6/AmQ9eQf89lm/": {
    "cena": 219800,
+   "videno": "2026-11-13"
+  },
+  "https://www.sauto.cz/osobni/detail/volkswagen/golf/211452099": {
+   "cena": 155000,
+   "videno": "2026-11-13"
+  },
+  "https://www.otomoto.pl/osobowe/oferta/volkswagen-golf-ID6IjODP.html": {
+   "cena": 155092,
+   "videno": "2026-11-13"
+  },
+  "https://www.sauto.cz/osobni/detail/volkswagen/golf/211442775": {
+   "cena": 159000,
+   "videno": "2026-11-13"
+  },
+  "https://auto.bazos.cz/inzerat/226388747/volkswagen-golf-7.php": {
+   "cena": 165000,
+   "videno": "2026-11-13"
+  },
+  "https://www.otomoto.pl/osobowe/oferta/volkswagen-golf-ID6IjQ1p.html": {
+   "cena": 166164,
+   "videno": "2026-11-13"
+  },
+  "https://www.otomoto.pl/osobowe/oferta/volkswagen-golf-ID6IeYvo.html": {
+   "cena": 177248,
+   "videno": "2026-11-13"
+  },
+  "https://www.otomoto.pl/osobowe/oferta/volkswagen-golf-ID6IjQZ7.html": {
+   "cena": 180017,
+   "videno": "2026-11-13"
+  },
+  "https://auto.bazos.cz/inzerat/226395910/volkswagen-golf-16-tdi-85kw-highline.php": {
+   "cena": 189000,
+   "videno": "2026-11-13"
+  },
+  "https://www.otomoto.pl/osobowe/oferta/volkswagen-golf-ID6IjPKF.html": {
+   "cena": 192757,
+   "videno": "2026-11-13"
+  },
+  "https://www.otomoto.pl/osobowe/oferta/volkswagen-golf-ID6IjPtp.html": {
+   "cena": 209374,
+   "videno": "2026-11-13"
+  },
+  "https://auto.bazos.cz/inzerat/225570463/skoda-octavia-iii-facelift-combi-15tsi-110kw-my2018-ambi.php": {
+   "cena": 219000,
+   "videno": "2026-11-13"
+  },
+  "https://www.otomoto.pl/osobowe/oferta/volkswagen-golf-ID6IjPx5.html": {
+   "cena": 221554,
+   "videno": "2026-11-13"
+  },
+  "https://www.otomoto.pl/osobowe/oferta/volkswagen-golf-ID6IhON8.html": {
+   "cena": 227099,
+   "videno": "2026-11-13"
+  },
+  "https://auto.bazos.cz/inzerat/226397400/vw-golf-20-tdi-110kw-highline-2018.php": {
+   "cena": 229000,
    "videno": "2026-11-13"
   }
  },
@@ -7145,14 +7201,48 @@
    "kw": 77,
    "prevodovka": "manual",
    "videno": "2026-11-13"
+  },
+  "https://auto.bazos.cz/inzerat/225570463/skoda-octavia-iii-facelift-combi-15tsi-110kw-my2018-ambi.php": {
+   "popis": "--- v přípravě --- --- MOŽNOST PRODLOUŽENÍ ZÁRUKY VOZU AŽ NA 36 MĚSÍCŮ --- Nabízím k prodeji VW Golf 7 kombi s nejspolehlivějším naftovým motorem 2.0TDI 110kw (ještě bez močoviny AdBlue) v kombinaci s manuální převodovkou a pohonem všech kol 4motion. Odpočet DPH: NE Vyrobeno: 7/2015, modelový rok dle vin 2016 Motor: 2.0TDI Výkon: 110kw (150ps/340Nm) Převodovka: manuální Najeto: 167000km Poslední servis: 162000km (přední kotouče a desky), 157000km (olej, filtry), 140000km (olej v haldexu), 115000km (nové ROZVODY vč. VODNÍ PUMPY) Servisní kniha: ANO Pohon: 4x4 Barva: šedá metalíza TUNGSTEN SILVER Celkový počet majitelů: 2 Původ: Německo Platnost STK+EM do: 9/2028 Dokumentace: certifikát COC, manuály, protokol TUV, orig. servisní kniha, 2x klíče Výbava LOUNGE: - 6-ti stupňová manuální převodovka - pohon 4x4 - vyhřívaný volant - adaptivní tempomat ACC s prediktivní ochranou chodců - sledování okolí a nouzové brzdění Front Assist - aut. přepínání dálkových světel Light Assist - rozpoznání únavy Driver Alert - samoparkovací systém Park Assist - vyhřívané sedačky - dvouzónová automatická digitální klimatizace - přední, boční a zadní parkovací senzory - multifunkční volant - infotainment Composition Media (vše v češtině, CD, MP3, USB, AUX-IN, optický parkovací systém atd.) - palubní počítač Plus - asistent pro rozjíždění do kopce - el. sklopné zrcátka - senzory pneu, brzd, deště, světel - samostmívací zpětné zrcátka - funkce Coming a Leaving home - uchycení dětských sedaček Isofix - orig. alu kola VW r16 - podélné střešní nosiče Elox - 7x airbag - stabilizační systém ESP, protiprokluz kol ASR, EDS, ABS Tel: +420 739 612 507",
+   "rok": 2016,
+   "km": 167000,
+   "kw": 110,
+   "prevodovka": "manual",
+   "videno": "2026-11-13"
+  },
+  "https://auto.bazos.cz/inzerat/226397400/vw-golf-20-tdi-110kw-highline-2018.php": {
+   "popis": "Prodám Volkswagen Golf VII Variant Facelift (7.5) 2.0 TDi 110kW. V provozu 5/2018.Najeto 215 tisíc km. Velmi solidní výbava: Vyhřívané sedačky Acc-adaptivní tempomat Přední i zadní parkovací senzory Piano decor lišty Alcantarové sedačky Masážní sedačka řidiče Rádio s velkým dotykovým displayem Zadní led světla Originální r16 disky s novými zimními pneu! Isofix Asistent rozjezdu do kopce Lednička u spolujezdce Systém varování před nehodou Dynamické řízení Diferencial se zvýšenou svorností a další Poslední servis proběhl 10. Měsíc 2026, výměna všech filtrů a oleje , nová agm baterie, nové zimní pneu, stk Auto připravené na zimu bez investic, vše funguje jak má a je bez závad. Nemam zájem o žádnou výměnu.",
+   "rok": 2018,
+   "km": 215000,
+   "kw": 110,
+   "prevodovka": null,
+   "videno": "2026-11-13"
+  },
+  "https://auto.bazos.cz/inzerat/226395910/volkswagen-golf-16-tdi-85kw-highline.php": {
+   "popis": "Vyrobeno:08/2017 Původ:Německo od roku 2022 v ČR Objem:1598 ccm Výkon:85 kW-116 koní Palivo:nafta Najeto:224 277 km STK:05/2028 Stav:Velmi dobrý VIN:WVWZZZAUZJP513459 Barva: Zelená perleť Výbava:6x airbag, 5 rychlostních stupňů, ABS, adaptivní tempomat, Android Auto, Apple CarPlay, automatická klimatizace, AUX, bluetooth, CD přehrávač, centrál dálkový, deaktivace airbagu spolujezdce, dělená zadní sedadla, denní svícení, dvouzónová klimatizace, el. okna, el. startér, el. zrcátka, elektronická ruční brzda, hands free, imobilizér, isofix, klimatizovaná přihrádka, LED denní svícení, litá kola, manuální převodovka, mlhovky, multifunkční volant, nastavitelný volant, originál autorádio, ostřikovače světlometů, palubní počítač, parkovací senzory přední, parkovací senzory zadní, plní 'EURO VI', podélný posuv sedadel, pohon 4x2,polohovací sedadla, posilovač řízení, protiprokluzový systém kol (ASR),přední pohon, samostmívací zrcátka, satelitní navigace, sedadla s funkcí masáže - přední, senzor stěračů, senzor světel, senzor tlaku v pneumatikách, venkovní teploměr, vyhřívaná sedadla, vyhřívaná zrcátka, výškově nastavitelná sedadla zatmavená zadní skla Pravidelný servis !!! K vozidlu výpis Cebia !!! Velmi pěkný stav !!! Rozvody vyměněny ve 166000km !!!",
+   "rok": 2017,
+   "km": 224277,
+   "kw": 85,
+   "prevodovka": "manual",
+   "videno": "2026-11-13"
+  },
+  "https://auto.bazos.cz/inzerat/226393792/volkswagen-golf-7-vii.php": {
+   "popis": "Prodám Volkswagen Golf 7 5dv 1.2 TSI 2013 nájezd 192... El okna,klima, výhřev sedadel, palubní počítač, manuální převodovka,led světla Nové kompletní brzdy přední+ zadní Aktuálně po výměně oleje Sada nových zimních R15 plechová kola a Letních nových pneu R17 Alu kola originál Vozidlo bez investic Vozidlo absolutně bez koroze. Kosmetická vada přední levé dveře",
+   "rok": null,
+   "km": null,
+   "kw": null,
+   "prevodovka": "manual",
+   "videno": "2026-11-13"
   }
  },
  "souhrn": {
-  "kontrola": "13.11.2026 15:31",
-  "vyhovuje": 575,
-  "nove": 18,
-  "zlevnene": 10,
+  "kontrola": "14.11.2026 00:29",
+  "vyhovuje": 562,
+  "nove": 14,
+  "zlevnene": 7,
   "nejlevnejsi": 150000,
-  "chyby": []
+  "chyby": [
+   "Sbazar.cz: 404 Client Error: Not Found for url: https://www.sbazar.cz/api/v1/items/search?phrase=golf&limit=100&offset=0&category_id=155"
+  ]
  }
 }

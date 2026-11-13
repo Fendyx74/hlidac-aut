@@ -277,7 +277,7 @@
    "videno": "2026-11-13"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-3-ID6IhZDr.html": {
-   "cena": 174478,
+   "cena": 163400,
    "videno": "2026-11-13"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-3-ID6IiT7M.html": {
@@ -398,6 +398,10 @@
   },
   "https://auto.bazos.cz/inzerat/224555665/bmw-320d-e92-coupe-lci-facelift.php": {
    "cena": 210000,
+   "videno": "2026-11-13"
+  },
+  "https://www.otomoto.pl/osobowe/oferta/bmw-seria-3-ID6IjMXp.html": {
+   "cena": 193865,
    "videno": "2026-11-13"
   }
  },
@@ -700,11 +704,13 @@
   }
  },
  "souhrn": {
-  "kontrola": "13.11.2026 15:30",
+  "kontrola": "14.11.2026 00:29",
   "vyhovuje": 43,
-  "nove": 0,
-  "zlevnene": 0,
+  "nove": 1,
+  "zlevnene": 1,
   "nejlevnejsi": 152322,
-  "chyby": []
+  "chyby": [
+   "Sbazar.cz: 404 Client Error: Not Found for url: https://www.sbazar.cz/api/v1/items/search?phrase=coupe&limit=100&offset=0&category_id=159"
+  ]
  }
 }

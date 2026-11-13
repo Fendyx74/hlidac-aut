@@ -645,8 +645,8 @@
    "videno": "2026-11-10"
   },
   "https://www.sauto.cz/osobni/detail/skoda/scala/210957849": {
-   "cena": 249900,
-   "videno": "2026-11-10"
+   "cena": 229900,
+   "videno": "2026-11-13"
   },
   "https://auto.bazos.cz/inzerat/226047433/skoda-scala-16tdi-85kw-11mes-2019.php": {
    "cena": 249990,
@@ -4456,11 +4456,13 @@
   }
  },
  "souhrn": {
-  "kontrola": "13.11.2026 15:29",
-  "vyhovuje": 84,
+  "kontrola": "14.11.2026 00:28",
+  "vyhovuje": 82,
   "nove": 0,
-  "zlevnene": 2,
+  "zlevnene": 1,
   "nejlevnejsi": 150000,
-  "chyby": []
+  "chyby": [
+   "Sbazar.cz: 404 Client Error: Not Found for url: https://www.sbazar.cz/api/v1/items/search?phrase=scala&limit=100&offset=0&category_id=152"
+  ]
  }
 }

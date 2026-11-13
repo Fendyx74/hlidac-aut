@@ -510,11 +510,13 @@
   }
  },
  "souhrn": {
-  "kontrola": "13.11.2026 15:29",
-  "vyhovuje": 9,
+  "kontrola": "14.11.2026 00:28",
+  "vyhovuje": 8,
   "nove": 0,
   "zlevnene": 0,
   "nejlevnejsi": 159999,
-  "chyby": []
+  "chyby": [
+   "Sbazar.cz: 404 Client Error: Not Found for url: https://www.sbazar.cz/api/v1/items/search?phrase=rapid+monte+carlo&limit=100&offset=0&category_id=152"
+  ]
  }
 }

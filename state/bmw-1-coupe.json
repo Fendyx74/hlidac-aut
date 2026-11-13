@@ -295,6 +295,10 @@
   "https://auto.bazos.cz/inzerat/226246601/bmw-e82-123d-coupe.php": {
    "cena": 230000,
    "videno": "2026-11-13"
+  },
+  "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IjOX8.html": {
+   "cena": 193865,
+   "videno": "2026-11-13"
   }
  },
  "detaily": {
@@ -508,11 +512,13 @@
   }
  },
  "souhrn": {
-  "kontrola": "13.11.2026 15:30",
-  "vyhovuje": 17,
-  "nove": 0,
-  "zlevnene": 1,
+  "kontrola": "14.11.2026 00:29",
+  "vyhovuje": 16,
+  "nove": 1,
+  "zlevnene": 0,
   "nejlevnejsi": 155000,
-  "chyby": []
+  "chyby": [
+   "Sbazar.cz: 404 Client Error: Not Found for url: https://www.sbazar.cz/api/v1/items/search?phrase=coupe&limit=100&offset=0&category_id=159"
+  ]
  }
 }

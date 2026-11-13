@@ -137,7 +137,7 @@
    "videno": "2026-11-13"
   },
   "https://www.otomoto.pl/osobowe/oferta/audi-tt-ID6IhFeN.html": {
-   "cena": 171155,
+   "cena": 165616,
    "videno": "2026-11-13"
   },
   "https://www.otomoto.pl/osobowe/oferta/audi-tt-ID6IhfF6.html": {
@@ -385,7 +385,7 @@
    "videno": "2026-11-13"
   },
   "https://www.otomoto.pl/osobowe/oferta/audi-tt-ID6I442E.html": {
-   "cena": 204389,
+   "cena": 198850,
    "videno": "2026-11-13"
   },
   "https://www.otomoto.pl/osobowe/oferta/audi-tt-ID6IdieT.html": {
@@ -812,11 +812,13 @@
   }
  },
  "souhrn": {
-  "kontrola": "13.11.2026 15:31",
-  "vyhovuje": 53,
+  "kontrola": "14.11.2026 00:29",
+  "vyhovuje": 51,
   "nove": 0,
-  "zlevnene": 1,
+  "zlevnene": 2,
   "nejlevnejsi": 154538,
-  "chyby": []
+  "chyby": [
+   "Sbazar.cz: 404 Client Error: Not Found for url: https://www.sbazar.cz/api/v1/items/search?phrase=tt&limit=100&offset=0&category_id=157"
+  ]
  }
 }
