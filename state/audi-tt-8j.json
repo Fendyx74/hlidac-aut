@@ -385,7 +385,7 @@
    "videno": "2026-11-14"
   },
   "https://www.otomoto.pl/osobowe/oferta/audi-tt-ID6I442E.html": {
-   "cena": 198850,
+   "cena": 193311,
    "videno": "2026-11-14"
   },
   "https://www.otomoto.pl/osobowe/oferta/audi-tt-ID6IdieT.html": {
@@ -422,6 +422,10 @@
   },
   "https://www.sauto.cz/osobni/detail/audi/tt/211436625": {
    "cena": 195000,
+   "videno": "2026-11-14"
+  },
+  "https://www.otomoto.pl/osobowe/oferta/audi-tt-ID6IjUhg.html": {
+   "cena": 216021,
    "videno": "2026-11-14"
   }
  },
@@ -809,13 +813,29 @@
    "kw": null,
    "prevodovka": null,
    "videno": "2026-11-14"
+  },
+  "https://auto.bazos.cz/inzerat/226417995/audi-tt.php": {
+   "popis": "Audi ve velmi dobrém stavu 2012, obsah 1,8 Garážované, pravidelné servisní prohlídky, + letní pneu na origo diskách",
+   "rok": null,
+   "km": null,
+   "kw": null,
+   "prevodovka": null,
+   "videno": "2026-11-14"
+  },
+  "https://www.sbazar.cz/4b352d72043cf07d7d72363a24c5dee6/detail/235841514-audi-tt-s-line-2007": {
+   "popis": "Osobní automobil  sportovní kupé\nProdám Audi TT 8J S line, rok výroby 2007, v červené barvě.\n Motor: 2.0 TFSI\n Výkon: 147 kW / 200 koní\n Převodovka: automat\n Rok výroby: 2007\n Nájezd: 280 000 km\n Barva: červená\n Výbava: S line, vyhřívané sedačky, elektrické ovládání oken, klimatizace\nNa autě bylo uděláno spoustu věcí, takže se do něj v poslední době investovalo:\n kompletně udělaná přední náprava\n nové přední čelní sklo\n nové silentbloky motoru\n nové přední kotouče + destičky\n nové tlumiče\n pravidelný servis každých 15 000km\nAuto je vzhledem ke svému věku a nájezdu v pěkném a udržovaném stavu. Do auta bylo průběžně investováno a dostalo potřebný servis.\n Více informací rád sdělím do zprávy.",
+   "rok": 2007,
+   "km": 280000,
+   "kw": 147,
+   "prevodovka": "automat",
+   "videno": "2026-11-14"
   }
  },
  "souhrn": {
-  "kontrola": "14.11.2026 14:27",
+  "kontrola": "14.11.2026 23:18",
   "vyhovuje": 50,
-  "nove": 0,
-  "zlevnene": 0,
+  "nove": 1,
+  "zlevnene": 1,
   "nejlevnejsi": 154538,
   "chyby": []
  }

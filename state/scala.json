@@ -3235,6 +3235,14 @@
   "https://www.autobazar.eu/detail/skoda-scala-10-tsiambition-cr1maj-tempomat/AmDh8JsFTCZ/": {
    "cena": 214940,
    "videno": "2026-11-13"
+  },
+  "https://auto.bazos.cz/inzerat/226431395/scala.php": {
+   "cena": 200000,
+   "videno": "2026-11-14"
+  },
+  "https://www.sauto.cz/osobni/detail/skoda/scala/211453749": {
+   "cena": 200000,
+   "videno": "2026-11-14"
   }
  },
  "detaily": {
@@ -4461,13 +4469,21 @@
    "kw": null,
    "prevodovka": "automat",
    "videno": "2026-11-14"
+  },
+  "https://auto.bazos.cz/inzerat/226431395/scala.php": {
+   "popis": "Škoda Scala, Skoda Scala 1.0 TSI Ambition Ojeté, 3/2020, 170 909 km 200 000 Kč Karoserie Hatchback Palivo Benzín Objem 999 ccm Převodovka Manuální Spotřeba/100km 6 litrů Výkon 85 kW Barva Šedá Popis prodejce: auto v dobrem stavu",
+   "rok": null,
+   "km": 170909,
+   "kw": 85,
+   "prevodovka": "manual",
+   "videno": "2026-11-14"
   }
  },
  "souhrn": {
-  "kontrola": "14.11.2026 14:25",
-  "vyhovuje": 82,
-  "nove": 0,
-  "zlevnene": 1,
+  "kontrola": "14.11.2026 23:16",
+  "vyhovuje": 83,
+  "nove": 1,
+  "zlevnene": 0,
   "nejlevnejsi": 150000,
   "chyby": []
  }

@@ -207,6 +207,10 @@
   "https://auto.bazos.cz/inzerat/226093682/skoda-rapid-14-tsi.php": {
    "cena": 220000,
    "videno": "2026-11-12"
+  },
+  "https://auto.bazos.cz/inzerat/226425711/skoda-rapid-spaceback-12-tsi-81kw-6-rs-monte-carlo-xenony.php": {
+   "cena": 229999,
+   "videno": "2026-11-14"
   }
  },
  "detaily": {
@@ -507,12 +511,20 @@
    "kw": null,
    "prevodovka": null,
    "videno": "2026-11-14"
+  },
+  "https://auto.bazos.cz/inzerat/226425711/skoda-rapid-spaceback-12-tsi-81kw-6-rs-monte-carlo-xenony.php": {
+   "popis": "prodám ŠKODA RAPID SPACEBACK 1.2 TSI 81KW vrcholná verze MONTE CARLO DOVOZ SRN - v předprodejní přípravě JEDEN Z POVEDENÝCH MOTORU 81KW plus 6RS MANUÁLNÍ PŘEVODOVKA - 6 rychlostí PRVNÍ REGISTRACE 08-06-2016 ČERVENÁ CORRIDA - PROSKLENÁ ČERNÁ STŘECHA A VÍKO KUFRU ZÁRUKA PŮVODU-STAVU-KM -NAJETO 164000KM možnost náhlednutí do celé historie vozidla - detekce laku karoserie - možnost připojení na diagnostiku PRAVIDELNÝ SERVIS POUZE ŠKODA, řádně vedená servisní kniha a protokoly ze servisů a z stk MONTE CARLO - Mlhové světlomety s integrovaným osvětlením pro zatáčky s černým pozadím - zadní světlomety ztmavené - černý střešní spojler - černá zrcátka - prosklené zadní okno - panoramatická skleněná střecha-černá maska-spoiler předního nárazníku - spoiler víka kufru -prahové lišty - volant a řadící paka obšité červenou nití - sportovní sedačky - carbon obložení palubní desky ►►► AUTOMATICKÁ KLIMATIZACE ►►► ZATMAVENÁ ZADNÍ SKLA SUN SET ►►► SEDAČKY MONTE CARLO ►►► VYHŘÍVÁNÍ SEDAČEK S ODDĚLENOU REGULACÍ ►►► XENONOVÉ SVĚTLOMETY ►►► PANORAMATICKÁ STŘECHA ►►► DEŠTOVÝ A SVĚTELNÝ SENZOR ►►► NEREZOVÉ PEDÁLY ►►► BLUETOOTH, APPLE CAR PLAY ►► USB, AUX, ipod, ►► PARKOVACÍ SENZORY ►► TEMPOMAT ►► MAXIDOT ►► ALU KOLA ŠKODA ---------------------- 2.majitel ----------------------- Výba va: nastavitelné sedadlo řidiče,nastavitelný volant, otáčkoměr, centrální zamykání, imobilizér, klimatizováná přihrádka,maxidot, alu kola, mlhová světla,ostřikovače světlometů, parkovací senzory, start stop,park pilot,vyhřívaná sedadla,kontrola tlaku v pneu,dešťový senzor, multifunkční volant, automatická klimatizace,ABS, ESP, 10 x airbag, posilovač řízení, elek.zrcátka, elek.okna,loketní opěrka, nastavitelné sedadlo řidiče,nastavitelný volant, otáčkoměr, centrální zamykání, imobilizér,klimatizováná přihrádka, SUN SET PAKET-ZATMAVENÁ ZADNÍ SKLA ------------------------------------- -------- --------------------------------------------- -------------------------------- ►► POSLEDNÍ SERVIS ve 158TKM ►►►►►► ►►► ►►► ►►► KAROSERIE V ORIGINÁLNÍM STAVU - NEHAVAROVÁNO-nelakováno GARAŽOVANÉ, SERVISNÍ VÝPISY, 2 KLÍČE, ZACHOVALÝ STAV",
+   "rok": null,
+   "km": 164000,
+   "kw": 81,
+   "prevodovka": "manual",
+   "videno": "2026-11-14"
   }
  },
  "souhrn": {
-  "kontrola": "14.11.2026 14:25",
-  "vyhovuje": 9,
-  "nove": 0,
+  "kontrola": "14.11.2026 23:16",
+  "vyhovuje": 10,
+  "nove": 1,
   "zlevnene": 0,
   "nejlevnejsi": 159999,
   "chyby": []
