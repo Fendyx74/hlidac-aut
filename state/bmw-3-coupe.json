@@ -411,6 +411,10 @@
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-3-ID6HTo3c.html": {
    "cena": 181679,
    "videno": "2026-11-15"
+  },
+  "https://www.otomoto.pl/osobowe/oferta/bmw-seria-3-OLX_ID6IjU2p.html": {
+   "cena": 155092,
+   "videno": "2026-11-15"
   }
  },
  "detaily": {
@@ -717,11 +721,19 @@
    "kw": null,
    "prevodovka": "manual",
    "videno": "2026-11-15"
+  },
+  "https://auto.bazos.cz/inzerat/226484473/bmw-e46-330ci-coupe.php": {
+   "popis": "Prodám BMW E46 Coupé s benzínovým šestiválcem 3.0 M54B30. Auto mám přibližně rok a prodávám ho kvůli koupi BMW Z3. Má čerstvou STK, funkční a naplněnou klimatizaci a zachovaný sériový vzhled. Dříve bylo na LPG, soustava je z auta demontovaná. Servis a úpravy • Brzdy Brembo Xtra a nové třmeny • Tlumiče Bilstein B8, pružiny Eibach Pro-Kit a rozpěra • Nová ramena a axiální táhla řízení, zadní náprava na polyuretanových silentblocích • Nové zimní pneumatiky • Přetěsněný motor, VANOS po repasi a nové lambda sondy • Nerezové motané svody, vzduchový filtr Pipercross a servisní filtry MANN • Po výměně oleje a provozních kapalin • Repasované přední světlomety s Bi-LED projektory, z výroby xenony Interiér a výbava Kožený interiér, černá stropnice a elektricky nastavitelná sportovní sedadla s pamětí a vyhříváním. Ve výbavě je také elektrický skleněný šíbr, zadní roletka, automatická klimatizace, sportovní kožený multifunkční volant, navigace Business(teď carplay )m3 look zrcátka, samostmívací vnitřní zrcátko, dešťový senzor, ostřikovače světlometů, mlhovky, DSC, přední loketní opěrka a vak na lyže. Stav a nedostatky Kapota a víko kufru jsou bez koroze, zvedací body jsou v pořádku. Doporučil bych vyvařit prahy a opravit zadní lemy. Orezlé jsou i spodky dveří. Šíbr funguje, ale potřebuje seřídit. Originální svody s katalyzátory k autu nemám. Střecha je zašlá , chtěla by rozleštit . spojka už je na tom zle , ačkoliv za příplatek 10000 jsem schopný spojku udělat . Do prodeje udělám topení a geometrii Věnoval jsem se převážné mechanické stránce . Chtěl jsem auto předělat do m3 vzhledu . kvůli času s autem nejezdím a je škoda aby po tolika investicích stálo . S cenou jsem otevřený, ačkoliv si myslim že vzhledem k motorizaci a výbavě je férová . Poprosím psát sms nebo na email  kvůli práci .",
+   "rok": null,
+   "km": null,
+   "kw": null,
+   "prevodovka": null,
+   "videno": "2026-11-15"
   }
  },
  "souhrn": {
-  "kontrola": "15.11.2026 14:52",
-  "vyhovuje": 40,
+  "kontrola": "15.11.2026 23:45",
+  "vyhovuje": 41,
   "nove": 1,
   "zlevnene": 0,
   "nejlevnejsi": 152322,

@@ -3243,6 +3243,18 @@
   "https://www.sauto.cz/osobni/detail/skoda/scala/211453749": {
    "cena": 190000,
    "videno": "2026-11-15"
+  },
+  "https://auto.bazos.cz/inzerat/226484748/skoda-scala-10-tsi-85kw-2019.php": {
+   "cena": 213547,
+   "videno": "2026-11-15"
+  },
+  "https://www.autobazar.eu/detail/skoda-scala-10-tsi-85kw-2019-aj-na-splatky-protiucet/Amqvj9iIDRa/": {
+   "cena": 213718,
+   "videno": "2026-11-15"
+  },
+  "https://www.sauto.cz/osobni/detail/skoda/scala/211456584": {
+   "cena": 213719,
+   "videno": "2026-11-15"
   }
  },
  "detaily": {
@@ -4480,10 +4492,10 @@
   }
  },
  "souhrn": {
-  "kontrola": "15.11.2026 14:51",
-  "vyhovuje": 83,
-  "nove": 0,
-  "zlevnene": 1,
+  "kontrola": "15.11.2026 23:44",
+  "vyhovuje": 86,
+  "nove": 3,
+  "zlevnene": 0,
   "nejlevnejsi": 150000,
   "chyby": []
  }
