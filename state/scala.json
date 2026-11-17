@@ -289,7 +289,7 @@
    "videno": "2026-11-17"
   },
   "https://auto.bazos.cz/inzerat/224293824/skoda-scala-10tsi-85kw-style.php": {
-   "cena": 219999,
+   "cena": 218000,
    "videno": "2026-11-17"
   },
   "https://auto.bazos.cz/inzerat/226065774/skoda-scala-10-g-tec-66-kw-cng.php": {
@@ -333,7 +333,7 @@
    "videno": "2026-11-17"
   },
   "https://www.sauto.cz/osobni/detail/skoda/scala/209234679": {
-   "cena": 225000,
+   "cena": 219000,
    "videno": "2026-11-17"
   },
   "https://www.sbazar.cz/jirivalchar7/detail/234633837-skoda-scala-10tsi70kw-style-extra": {
@@ -3267,6 +3267,14 @@
   "https://www.autobazar.eu/detail/skoda-scala-10-tsi-tempomat-park-senzory/AmPlP8zToKl/": {
    "cena": 171010,
    "videno": "2026-11-17"
+  },
+  "https://www.autobazar.eu/detail/skoda-scala-10-82019/AbiFW5vtFIR/": {
+   "cena": 179560,
+   "videno": "2026-11-17"
+  },
+  "https://www.autobazar.eu/detail/skoda-scala-16-122020/AbfZIT_jiQK/": {
+   "cena": 179560,
+   "videno": "2026-11-17"
   }
  },
  "detaily": {
@@ -4512,10 +4520,10 @@
   }
  },
  "souhrn": {
-  "kontrola": "17.11.2026 02:50",
-  "vyhovuje": 86,
+  "kontrola": "17.11.2026 16:54",
+  "vyhovuje": 87,
   "nove": 2,
-  "zlevnene": 0,
+  "zlevnene": 1,
   "nejlevnejsi": 159999,
   "chyby": []
  }

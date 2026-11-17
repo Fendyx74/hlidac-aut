@@ -211,6 +211,10 @@
   "https://auto.bazos.cz/inzerat/226425711/skoda-rapid-spaceback-12-tsi-81kw-6-rs-monte-carlo-xenony.php": {
    "cena": 229999,
    "videno": "2026-11-17"
+  },
+  "https://auto.bazos.cz/inzerat/225408864/skoda-rapid-monte-carlo.php": {
+   "cena": 170000,
+   "videno": "2026-11-17"
   }
  },
  "detaily": {
@@ -519,12 +523,20 @@
    "kw": 81,
    "prevodovka": "manual",
    "videno": "2026-11-17"
+  },
+  "https://auto.bazos.cz/inzerat/225408864/skoda-rapid-monte-carlo.php": {
+   "popis": "ŠKODA RAPID MONTE CARLO 1.2 TSI 81 kW | 2016 | XENONY Prodám Škodu Rapid v atraktivní sportovní edici MONTE CARLO v elegantní šedé barvě. Hledáte praktické auto, které zároveň dobře vypadá? Rapid Monte Carlo nabízí kombinaci sportovního vzhledu, příjemného jízdního projevu a praktičnosti pro každodenní používání. ZÁKLADNÍ ÚDAJE: * Rok výroby: 2016 * Motor: 1.2 TSI * Výkon: 81 kW * Převodovka: manuální * Barva: šedá * Najeto: cca 216 xxx km * Edice: Monte Carlo VÝBAVA: * Xenonové světlomety * Vyhřívaná sedadla * Sportovní vzhled Monte Carlo STAV VOZU: Vůz má vzhledem ke svému stáří a nájezdu běžné kosmetické nedostatky. Poškozená látka na sedadle a loketní opěrce. Stav odpovídá stáří a počtu najetých kilometrů. Auto je k vidění po předchozí domluvě. Cena: 170 000Kč Při rychlém a seriózním jednání možná rozumná dohoda o ceně. Prosím pouze vážní zájemci.",
+   "rok": 2016,
+   "km": 216000,
+   "kw": 81,
+   "prevodovka": "manual",
+   "videno": "2026-11-17"
   }
  },
  "souhrn": {
-  "kontrola": "17.11.2026 02:50",
-  "vyhovuje": 11,
-  "nove": 0,
+  "kontrola": "17.11.2026 16:54",
+  "vyhovuje": 12,
+  "nove": 1,
   "zlevnene": 0,
   "nejlevnejsi": 159999,
   "chyby": []

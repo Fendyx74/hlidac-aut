@@ -421,7 +421,23 @@
    "videno": "2026-11-17"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-3-ID6Idi9C.html": {
-   "cena": 187661,
+   "cena": 152570,
+   "videno": "2026-11-17"
+  },
+  "https://auto.bazos.cz/inzerat/226556512/bmw-e92-325i-coupe-n52b25-manual-2006.php": {
+   "cena": 155000,
+   "videno": "2026-11-17"
+  },
+  "https://www.otomoto.pl/osobowe/oferta/bmw-seria-3-ID6IjSDG.html": {
+   "cena": 165885,
+   "videno": "2026-11-17"
+  },
+  "https://www.otomoto.pl/osobowe/oferta/bmw-seria-3-ID6Ik3U6.html": {
+   "cena": 166434,
+   "videno": "2026-11-17"
+  },
+  "https://www.otomoto.pl/osobowe/oferta/bmw-seria-3-ID6IjkxJ.html": {
+   "cena": 221920,
    "videno": "2026-11-17"
   }
  },
@@ -748,9 +764,9 @@
   }
  },
  "souhrn": {
-  "kontrola": "17.11.2026 02:51",
-  "vyhovuje": 41,
-  "nove": 0,
+  "kontrola": "17.11.2026 16:55",
+  "vyhovuje": 44,
+  "nove": 4,
   "zlevnene": 1,
   "nejlevnejsi": 152570,
   "chyby": []
