@@ -185,7 +185,7 @@
    "videno": "2026-11-09"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6Ighaa.html": {
-   "cena": 160337,
+   "cena": 159759,
    "videno": "2026-11-18"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IdjwI.html": {
@@ -205,11 +205,11 @@
    "videno": "2026-11-08"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IhVQN.html": {
-   "cena": 171982,
+   "cena": 171362,
    "videno": "2026-11-18"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IcEKn.html": {
-   "cena": 171988,
+   "cena": 171368,
    "videno": "2026-11-18"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IhG3W.html": {
@@ -221,19 +221,19 @@
    "videno": "2026-11-18"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6Ig6Zs.html": {
-   "cena": 176981,
+   "cena": 176343,
    "videno": "2026-11-18"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6Ijiv3.html": {
-   "cena": 160892,
+   "cena": 160312,
    "videno": "2026-11-18"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IjkK0.html": {
-   "cena": 169214,
+   "cena": 168604,
    "videno": "2026-11-18"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IhOh0.html": {
-   "cena": 180310,
+   "cena": 179660,
    "videno": "2026-11-18"
   },
   "https://auto.bazos.cz/inzerat/226182103/original-alu-kola-bmw-1-f40-2-gran-coupe-f44-2054518.php": {
@@ -289,7 +289,7 @@
    "videno": "2026-11-18"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6I3oqO.html": {
-   "cena": 221365,
+   "cena": 220567,
    "videno": "2026-11-18"
   },
   "https://auto.bazos.cz/inzerat/226246601/bmw-e82-123d-coupe.php": {
@@ -297,11 +297,11 @@
    "videno": "2026-11-18"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IjOX8.html": {
-   "cena": 194180,
+   "cena": 193479,
    "videno": "2026-11-18"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IjVAP.html": {
-   "cena": 165885,
+   "cena": 165287,
    "videno": "2026-11-18"
   }
  },
@@ -516,10 +516,10 @@
   }
  },
  "souhrn": {
-  "kontrola": "18.11.2026 01:55",
-  "vyhovuje": 16,
+  "kontrola": "18.11.2026 16:33",
+  "vyhovuje": 15,
   "nove": 0,
-  "zlevnene": 0,
+  "zlevnene": 10,
   "nejlevnejsi": 155000,
   "chyby": []
  }
