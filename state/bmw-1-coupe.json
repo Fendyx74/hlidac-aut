@@ -185,7 +185,7 @@
    "videno": "2026-11-09"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6Ighaa.html": {
-   "cena": 159759,
+   "cena": 159788,
    "videno": "2026-11-19"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IdjwI.html": {
@@ -205,11 +205,11 @@
    "videno": "2026-11-08"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IhVQN.html": {
-   "cena": 171362,
+   "cena": 171393,
    "videno": "2026-11-19"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IcEKn.html": {
-   "cena": 171368,
+   "cena": 171399,
    "videno": "2026-11-19"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IhG3W.html": {
@@ -221,19 +221,19 @@
    "videno": "2026-11-19"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6Ig6Zs.html": {
-   "cena": 176343,
+   "cena": 176375,
    "videno": "2026-11-19"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6Ijiv3.html": {
-   "cena": 160312,
+   "cena": 160341,
    "videno": "2026-11-19"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IjkK0.html": {
-   "cena": 168604,
+   "cena": 168634,
    "videno": "2026-11-19"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IhOh0.html": {
-   "cena": 179660,
+   "cena": 179692,
    "videno": "2026-11-19"
   },
   "https://auto.bazos.cz/inzerat/226182103/original-alu-kola-bmw-1-f40-2-gran-coupe-f44-2054518.php": {
@@ -289,7 +289,7 @@
    "videno": "2026-11-18"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6I3oqO.html": {
-   "cena": 220567,
+   "cena": 220607,
    "videno": "2026-11-19"
   },
   "https://auto.bazos.cz/inzerat/226246601/bmw-e82-123d-coupe.php": {
@@ -297,11 +297,11 @@
    "videno": "2026-11-19"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IjOX8.html": {
-   "cena": 193479,
+   "cena": 193515,
    "videno": "2026-11-19"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IjVAP.html": {
-   "cena": 165287,
+   "cena": 165317,
    "videno": "2026-11-19"
   }
  },
@@ -516,11 +516,13 @@
   }
  },
  "souhrn": {
-  "kontrola": "19.11.2026 01:17",
+  "kontrola": "19.11.2026 16:42",
   "vyhovuje": 15,
   "nove": 0,
   "zlevnene": 0,
   "nejlevnejsi": 155000,
-  "chyby": []
+  "chyby": [
+   "Autobazar.eu: HTTPSConnectionPool(host='www.autobazar.eu', port=443): Max retries exceeded with url: /vysledky/osobne-vozidla/bmw/rad-1/?priceTo=9417&priceFrom=6141&yearFrom=2007 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.autobazar.eu', port=443) at 0x7a2be9fe0530>, 'Connection to www.autobazar.eu timed out. (connect timeout=30)'))"
+  ]
  }
 }

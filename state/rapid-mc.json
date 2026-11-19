@@ -22,7 +22,7 @@
   },
   "https://www.sauto.cz/osobni/detail/skoda/rapid/210725783": {
    "cena": 200000,
-   "videno": "2026-11-10"
+   "videno": "2026-11-19"
   },
   "https://www.sbazar.cz/BarboraBlahutova/detail/234664299-skoda-rapid-12-tsi-monte-carlo": {
    "cena": 202000,
@@ -393,7 +393,7 @@
    "kw": 81,
    "prevodovka": null,
    "karoserie": "Liftback",
-   "videno": "2026-11-10"
+   "videno": "2026-11-19"
   },
   "https://www.sauto.cz/osobni/detail/skoda/rapid/210680273": {
    "popis": "Škoda Rapid Hatchback je praktická volba pro každodenní využití s důrazem na pohodlí a dostupnou cenu. Nabízí prostorný interiér a moderní výbavu.\n\nTato Škoda Rapid, původem z ČR, je vybavena benzínovým motorem 1.0 TSI o objemu 999 ccm a výkonu 81 kW.    Vůz nabízí bi-xenonové světlomety pro lepší viditelnost. Sedadla jsou sportovní a vyhřívaná vpředu, což zvyšuje komfort. Klimatizace je automatická. Volant je kožený a multifunkční. Konektivita zahrnuje Android Auto, Apple CarPlay a Bluetooth pro snadné telefonování.",
@@ -538,11 +538,13 @@
   }
  },
  "souhrn": {
-  "kontrola": "19.11.2026 01:16",
-  "vyhovuje": 13,
-  "nove": 1,
+  "kontrola": "19.11.2026 16:39",
+  "vyhovuje": 12,
+  "nove": 0,
   "zlevnene": 0,
   "nejlevnejsi": 159999,
-  "chyby": []
+  "chyby": [
+   "Autobazar.eu: HTTPSConnectionPool(host='www.autobazar.eu', port=443): Max retries exceeded with url: /vysledky/osobne-vozidla/skoda/rapid/?priceTo=9417&priceFrom=6141&yearFrom=2015 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.autobazar.eu', port=443) at 0x7a2bea735f70>, 'Connection to www.autobazar.eu timed out. (connect timeout=30)'))"
+  ]
  }
 }

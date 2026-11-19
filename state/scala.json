@@ -57,7 +57,7 @@
    "videno": "2026-11-16"
   },
   "https://www.sauto.cz/osobni/detail/skoda/scala/211200342": {
-   "cena": 185000,
+   "cena": 176000,
    "videno": "2026-11-19"
   },
   "https://www.sbazar.cz/PetrMagdalek/detail/235588176-skoda-scala-16-tdi-85kw-ambition": {
@@ -245,11 +245,11 @@
    "videno": "2026-11-19"
   },
   "https://www.sbazar.cz/ZdeKupAuto/detail/231531260-skoda-scala-10tsi-ambition-cr1majitel": {
-   "cena": 218000,
+   "cena": 215000,
    "videno": "2026-11-19"
   },
   "https://auto.bazos.cz/inzerat/225128122/skoda-scala-10tsi-ambition-cr1majitel.php": {
-   "cena": 218000,
+   "cena": 215000,
    "videno": "2026-11-19"
   },
   "https://www.sauto.cz/osobni/detail/skoda/scala/210613964": {
@@ -3287,6 +3287,22 @@
   "https://www.autobazar.eu/detail/skoda-scala-10-tsiambition-cr1maj-tempomat/Amh86w2u_DV/": {
    "cena": 173133,
    "videno": "2026-11-19"
+  },
+  "https://www.sauto.cz/osobni/detail/skoda/scala/211320606": {
+   "cena": 170000,
+   "videno": "2026-11-19"
+  },
+  "https://www.sauto.cz/osobni/detail/skoda/scala/211477275": {
+   "cena": 200000,
+   "videno": "2026-11-19"
+  },
+  "https://auto.bazos.cz/inzerat/226653324/skoda-scala-81kw-dsg.php": {
+   "cena": 210000,
+   "videno": "2026-11-19"
+  },
+  "https://www.sauto.cz/osobni/detail/skoda/scala/211319043": {
+   "cena": 212000,
+   "videno": "2026-11-19"
   }
  },
  "detaily": {
@@ -4548,11 +4564,13 @@
   }
  },
  "souhrn": {
-  "kontrola": "19.11.2026 01:16",
-  "vyhovuje": 85,
-  "nove": 1,
-  "zlevnene": 0,
+  "kontrola": "19.11.2026 16:40",
+  "vyhovuje": 67,
+  "nove": 4,
+  "zlevnene": 2,
   "nejlevnejsi": 159999,
-  "chyby": []
+  "chyby": [
+   "Autobazar.eu: HTTPSConnectionPool(host='www.autobazar.eu', port=443): Max retries exceeded with url: /vysledky/osobne-vozidla/skoda/scala/?priceTo=9417&priceFrom=6141&yearFrom=2019 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.autobazar.eu', port=443) at 0x7a2bea367320>, 'Connection to www.autobazar.eu timed out. (connect timeout=30)'))"
+  ]
  }
 }
