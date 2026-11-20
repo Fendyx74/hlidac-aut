@@ -185,7 +185,7 @@
    "videno": "2026-11-09"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6Ighaa.html": {
-   "cena": 159788,
+   "cena": 158516,
    "videno": "2026-11-20"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IdjwI.html": {
@@ -209,11 +209,11 @@
    "videno": "2026-11-19"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IcEKn.html": {
-   "cena": 171399,
+   "cena": 170035,
    "videno": "2026-11-20"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IhG3W.html": {
-   "cena": 165317,
+   "cena": 164001,
    "videno": "2026-11-20"
   },
   "https://auto.bazos.cz/inzerat/225701054/bmw-120d-cupe-mpaket-130kw.php": {
@@ -221,15 +221,15 @@
    "videno": "2026-11-20"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6Ig6Zs.html": {
-   "cena": 176375,
+   "cena": 174971,
    "videno": "2026-11-20"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6Ijiv3.html": {
-   "cena": 160341,
+   "cena": 159065,
    "videno": "2026-11-20"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IjkK0.html": {
-   "cena": 168634,
+   "cena": 167292,
    "videno": "2026-11-20"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IhOh0.html": {
@@ -289,7 +289,7 @@
    "videno": "2026-11-18"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6I3oqO.html": {
-   "cena": 220607,
+   "cena": 218851,
    "videno": "2026-11-20"
   },
   "https://auto.bazos.cz/inzerat/226246601/bmw-e82-123d-coupe.php": {
@@ -297,15 +297,15 @@
    "videno": "2026-11-20"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IjOX8.html": {
-   "cena": 193515,
+   "cena": 191975,
    "videno": "2026-11-20"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IjVAP.html": {
-   "cena": 165317,
+   "cena": 164001,
    "videno": "2026-11-20"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-OLX_ID6IgriD.html": {
-   "cena": 171399,
+   "cena": 170035,
    "videno": "2026-11-20"
   }
  },
@@ -520,10 +520,10 @@
   }
  },
  "souhrn": {
-  "kontrola": "20.11.2026 01:35",
+  "kontrola": "20.11.2026 16:22",
   "vyhovuje": 15,
-  "nove": 1,
-  "zlevnene": 1,
+  "nove": 0,
+  "zlevnene": 10,
   "nejlevnejsi": 155000,
   "chyby": []
  }
