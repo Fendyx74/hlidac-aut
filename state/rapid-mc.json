@@ -219,6 +219,10 @@
   "https://www.sauto.cz/osobni/detail/skoda/rapid/211472817": {
    "cena": 195000,
    "videno": "2026-11-20"
+  },
+  "https://auto.bazos.cz/inzerat/226707964/skoda-rapid-monte-carlo-10-tsi-81-kw.php": {
+   "cena": 230000,
+   "videno": "2026-11-20"
   }
  },
  "detaily": {
@@ -538,9 +542,9 @@
   }
  },
  "souhrn": {
-  "kontrola": "20.11.2026 16:20",
-  "vyhovuje": 12,
-  "nove": 0,
+  "kontrola": "21.11.2026 00:56",
+  "vyhovuje": 13,
+  "nove": 1,
   "zlevnene": 0,
   "nejlevnejsi": 159999,
   "chyby": []

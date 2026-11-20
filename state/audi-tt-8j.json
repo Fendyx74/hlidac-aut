@@ -459,6 +459,10 @@
   "https://www.sauto.cz/osobni/detail/audi/tt/211207200": {
    "cena": 210000,
    "videno": "2026-11-20"
+  },
+  "https://www.otomoto.pl/osobowe/oferta/audi-tt-ID6IkjJt.html": {
+   "cena": 180456,
+   "videno": "2026-11-20"
   }
  },
  "detaily": {
@@ -880,10 +884,10 @@
   }
  },
  "souhrn": {
-  "kontrola": "20.11.2026 16:23",
+  "kontrola": "21.11.2026 00:58",
   "vyhovuje": 52,
-  "nove": 0,
-  "zlevnene": 24,
+  "nove": 1,
+  "zlevnene": 0,
   "nejlevnejsi": 153031,
   "chyby": []
  }

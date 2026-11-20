@@ -317,7 +317,7 @@
    "videno": "2026-11-20"
   },
   "https://auto.bazos.cz/inzerat/224991790/skoda-scala-10-tsi.php": {
-   "cena": 219999,
+   "cena": 215000,
    "videno": "2026-11-20"
   },
   "https://www.sauto.cz/osobni/detail/skoda/scala/210123656": {
@@ -3237,12 +3237,12 @@
    "videno": "2026-11-13"
   },
   "https://auto.bazos.cz/inzerat/226431395/scala.php": {
-   "cena": 190000,
+   "cena": 170000,
    "videno": "2026-11-20"
   },
   "https://www.sauto.cz/osobni/detail/skoda/scala/211453749": {
-   "cena": 190000,
-   "videno": "2026-11-18"
+   "cena": 170000,
+   "videno": "2026-11-20"
   },
   "https://auto.bazos.cz/inzerat/226484748/skoda-scala-10-tsi-85kw-2019.php": {
    "cena": 213547,
@@ -3318,6 +3318,10 @@
   },
   "https://auto.bazos.cz/inzerat/226695720/skoda-scala-10-tsi-rv2019-85-kw-6-rychelserviska-cr.php": {
    "cena": 229900,
+   "videno": "2026-11-20"
+  },
+  "https://www.sauto.cz/osobni/detail/skoda/scala/211174746": {
+   "cena": 230000,
    "videno": "2026-11-20"
   }
  },
@@ -4604,10 +4608,10 @@
   }
  },
  "souhrn": {
-  "kontrola": "20.11.2026 16:20",
+  "kontrola": "21.11.2026 00:57",
   "vyhovuje": 87,
-  "nove": 2,
-  "zlevnene": 1,
+  "nove": 1,
+  "zlevnene": 2,
   "nejlevnejsi": 159999,
   "chyby": []
  }
