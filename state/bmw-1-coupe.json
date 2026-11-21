@@ -225,7 +225,7 @@
    "videno": "2026-11-21"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6Ijiv3.html": {
-   "cena": 159065,
+   "cena": 153031,
    "videno": "2026-11-21"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IjkK0.html": {
@@ -520,11 +520,11 @@
   }
  },
  "souhrn": {
-  "kontrola": "21.11.2026 15:34",
+  "kontrola": "22.11.2026 00:07",
   "vyhovuje": 15,
   "nove": 0,
-  "zlevnene": 0,
-  "nejlevnejsi": 155000,
+  "zlevnene": 1,
+  "nejlevnejsi": 153031,
   "chyby": []
  }
 }

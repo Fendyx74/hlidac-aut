@@ -455,6 +455,10 @@
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-3-ID6Ikfb4.html": {
    "cena": 219394,
    "videno": "2026-11-21"
+  },
+  "https://www.otomoto.pl/osobowe/oferta/bmw-seria-3-ID6IklFy.html": {
+   "cena": 213915,
+   "videno": "2026-11-21"
   }
  },
  "detaily": {
@@ -796,10 +800,10 @@
   }
  },
  "souhrn": {
-  "kontrola": "21.11.2026 15:34",
+  "kontrola": "22.11.2026 00:07",
   "vyhovuje": 41,
-  "nove": 0,
-  "zlevnene": 1,
+  "nove": 1,
+  "zlevnene": 0,
   "nejlevnejsi": 150837,
   "chyby": []
  }

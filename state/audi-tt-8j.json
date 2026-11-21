@@ -181,7 +181,7 @@
    "videno": "2026-11-21"
   },
   "https://www.otomoto.pl/osobowe/oferta/audi-tt-ID6IbShI.html": {
-   "cena": 183747,
+   "cena": 181005,
    "videno": "2026-11-21"
   },
   "https://www.otomoto.pl/osobowe/oferta/audi-tt-ID6I41mP.html": {
@@ -888,9 +888,9 @@
   }
  },
  "souhrn": {
-  "kontrola": "21.11.2026 15:35",
+  "kontrola": "22.11.2026 00:08",
   "vyhovuje": 50,
-  "nove": 1,
+  "nove": 0,
   "zlevnene": 1,
   "nejlevnejsi": 153031,
   "chyby": []
