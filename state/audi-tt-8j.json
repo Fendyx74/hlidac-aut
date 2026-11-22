@@ -149,7 +149,7 @@
    "videno": "2026-11-22"
   },
   "https://www.otomoto.pl/osobowe/oferta/audi-tt-ID6Iimmv.html": {
-   "cena": 174971,
+   "cena": 164550,
    "videno": "2026-11-22"
   },
   "https://www.otomoto.pl/osobowe/oferta/audi-tt-ID6Ihxko.html": {
@@ -173,7 +173,7 @@
    "videno": "2026-11-20"
   },
   "https://www.otomoto.pl/osobowe/oferta/audi-tt-ID6IhjON.html": {
-   "cena": 164544,
+   "cena": 159059,
    "videno": "2026-11-22"
   },
   "https://www.sbazar.cz/Zdenal2011z/detail/234010653-audi-tt-20-tfsi-s-line-147-kw": {
@@ -888,10 +888,10 @@
   }
  },
  "souhrn": {
-  "kontrola": "22.11.2026 15:30",
+  "kontrola": "23.11.2026 00:35",
   "vyhovuje": 50,
   "nove": 0,
-  "zlevnene": 0,
+  "zlevnene": 2,
   "nejlevnejsi": 153031,
   "chyby": []
  }

@@ -297,7 +297,7 @@
    "videno": "2026-11-22"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IjOX8.html": {
-   "cena": 191975,
+   "cena": 185941,
    "videno": "2026-11-22"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IjVAP.html": {
@@ -306,6 +306,10 @@
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-OLX_ID6IgriD.html": {
    "cena": 170035,
+   "videno": "2026-11-22"
+  },
+  "https://auto.bazos.cz/inzerat/226805386/bmw-e82-123d-150kw.php": {
+   "cena": 180000,
    "videno": "2026-11-22"
   }
  },
@@ -517,13 +521,21 @@
    "kw": 180,
    "prevodovka": null,
    "videno": "2026-11-22"
+  },
+  "https://auto.bazos.cz/inzerat/226805386/bmw-e82-123d-150kw.php": {
+   "popis": "PRODÁM E82 123D 150kw Auto je v krásném stavu Nová STK Motor n47d20b 1000km zpět - nové rozvody , hlavní a ojniční ložiska , olejové čerpadlo a komplet těsnění Bohatá výbava Xenon Aktivní řízení Multifunkční volant Tempomat Keyless - Bezklíčkové odemykání a startování Elektronicky sklopná zrcátka Panoramatické střešní okno - elektrické Vyhřívané sedačky Automatické svícení Elektricky ovládané sedačky Najeto 335tkm Podvozkově perfektní bez vůlí bez koroze e81 e82 e87 e88 120d 123d 1er coupe",
+   "rok": null,
+   "km": 335000,
+   "kw": 150,
+   "prevodovka": null,
+   "videno": "2026-11-22"
   }
  },
  "souhrn": {
-  "kontrola": "22.11.2026 15:29",
+  "kontrola": "23.11.2026 00:34",
   "vyhovuje": 16,
-  "nove": 0,
-  "zlevnene": 2,
+  "nove": 1,
+  "zlevnene": 1,
   "nejlevnejsi": 153031,
   "chyby": []
  }

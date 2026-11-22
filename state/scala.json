@@ -3331,6 +3331,18 @@
   "https://auto.bazos.cz/inzerat/226793468/skoda-scala-16tdi-85kw-2020-puvod-cr-1-majitel.php": {
    "cena": 160000,
    "videno": "2026-11-22"
+  },
+  "https://www.sauto.cz/osobni/detail/skoda/scala/211491882": {
+   "cena": 190000,
+   "videno": "2026-11-22"
+  },
+  "https://www.autobazar.eu/detail/skoda-scala-16-tdiambition-tempomat/Am0CQesP7PZ/": {
+   "cena": 190866,
+   "videno": "2026-11-22"
+  },
+  "https://www.autobazar.eu/detail/skoda-scala-16-tdityle-plus-automat-cr2maj/AmhR0YjS5hq/": {
+   "cena": 205548,
+   "videno": "2026-11-22"
   }
  },
  "detaily": {
@@ -4624,9 +4636,9 @@
   }
  },
  "souhrn": {
-  "kontrola": "22.11.2026 15:28",
-  "vyhovuje": 83,
-  "nove": 1,
+  "kontrola": "23.11.2026 00:33",
+  "vyhovuje": 86,
+  "nove": 3,
   "zlevnene": 0,
   "nejlevnejsi": 159999,
   "chyby": []

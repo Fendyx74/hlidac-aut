@@ -231,6 +231,10 @@
   "https://www.sauto.cz/osobni/detail/skoda/rapid/211487781": {
    "cena": 229000,
    "videno": "2026-11-22"
+  },
+  "https://www.sauto.cz/osobni/detail/skoda/rapid/211490817": {
+   "cena": 230000,
+   "videno": "2026-11-22"
   }
  },
  "detaily": {
@@ -550,9 +554,9 @@
   }
  },
  "souhrn": {
-  "kontrola": "22.11.2026 15:28",
-  "vyhovuje": 13,
-  "nove": 0,
+  "kontrola": "23.11.2026 00:33",
+  "vyhovuje": 14,
+  "nove": 1,
   "zlevnene": 0,
   "nejlevnejsi": 159999,
   "chyby": []
