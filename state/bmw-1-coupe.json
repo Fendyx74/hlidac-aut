@@ -185,7 +185,7 @@
    "videno": "2026-11-09"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6Ighaa.html": {
-   "cena": 158574,
+   "cena": 158256,
    "videno": "2026-11-24"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IdjwI.html": {
@@ -209,11 +209,11 @@
    "videno": "2026-11-19"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IcEKn.html": {
-   "cena": 164610,
+   "cena": 164280,
    "videno": "2026-11-24"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IhG3W.html": {
-   "cena": 164061,
+   "cena": 163732,
    "videno": "2026-11-24"
   },
   "https://auto.bazos.cz/inzerat/225701054/bmw-120d-cupe-mpaket-130kw.php": {
@@ -221,19 +221,19 @@
    "videno": "2026-11-24"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6Ig6Zs.html": {
-   "cena": 175035,
+   "cena": 174684,
    "videno": "2026-11-24"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6Ijiv3.html": {
-   "cena": 153087,
+   "cena": 152780,
    "videno": "2026-11-24"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IjkK0.html": {
-   "cena": 167353,
+   "cena": 167018,
    "videno": "2026-11-24"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IhOh0.html": {
-   "cena": 175035,
+   "cena": 174684,
    "videno": "2026-11-24"
   },
   "https://auto.bazos.cz/inzerat/226182103/original-alu-kola-bmw-1-f40-2-gran-coupe-f44-2054518.php": {
@@ -289,7 +289,7 @@
    "videno": "2026-11-18"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6I3oqO.html": {
-   "cena": 218931,
+   "cena": 218492,
    "videno": "2026-11-24"
   },
   "https://auto.bazos.cz/inzerat/226246601/bmw-e82-123d-coupe.php": {
@@ -297,19 +297,23 @@
    "videno": "2026-11-24"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IjOX8.html": {
-   "cena": 186009,
+   "cena": 185636,
    "videno": "2026-11-24"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-ID6IjVAP.html": {
-   "cena": 164061,
+   "cena": 163732,
    "videno": "2026-11-24"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-1-OLX_ID6IgriD.html": {
-   "cena": 170097,
+   "cena": 169756,
    "videno": "2026-11-24"
   },
   "https://auto.bazos.cz/inzerat/226805386/bmw-e82-123d-150kw.php": {
    "cena": 180000,
+   "videno": "2026-11-24"
+  },
+  "https://www.sauto.cz/osobni/detail/bmw/rada-1/211507044": {
+   "cena": 159000,
    "videno": "2026-11-24"
   }
  },
@@ -532,11 +536,11 @@
   }
  },
  "souhrn": {
-  "kontrola": "24.11.2026 04:57",
-  "vyhovuje": 16,
-  "nove": 0,
-  "zlevnene": 0,
-  "nejlevnejsi": 153087,
+  "kontrola": "24.11.2026 18:33",
+  "vyhovuje": 17,
+  "nove": 1,
+  "zlevnene": 11,
+  "nejlevnejsi": 152780,
   "chyby": []
  }
 }
