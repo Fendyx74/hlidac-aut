@@ -149,7 +149,7 @@
    "videno": "2026-11-10"
   },
   "https://www.autobazar.eu/detail/skoda-rapid-12-tsi-110k-monte-carlo-81kw110hp-m6/AeBcmsEa0_-/": {
-   "cena": 207655,
+   "cena": 207697,
    "videno": "2026-11-25"
   },
   "https://auto.bazos.cz/inzerat/224696854/skoda-rapid-10-tsi-81kw-monte-carlo.php": {
@@ -238,6 +238,10 @@
   },
   "https://auto.bazos.cz/inzerat/226850884/skoda-rapid-spaceback-12-tsi-81kw-6-rs-monte-carlo-xenony.php": {
    "cena": 229999,
+   "videno": "2026-11-25"
+  },
+  "https://auto.bazos.cz/inzerat/226930116/skoda-rapid-spaceback-12-tsi-81-kw-monte-carlo.php": {
+   "cena": 230000,
    "videno": "2026-11-25"
   }
  },
@@ -566,9 +570,9 @@
   }
  },
  "souhrn": {
-  "kontrola": "25.11.2026 03:19",
-  "vyhovuje": 14,
-  "nove": 0,
+  "kontrola": "25.11.2026 18:05",
+  "vyhovuje": 15,
+  "nove": 1,
   "zlevnene": 0,
   "nejlevnejsi": 159999,
   "chyby": []
