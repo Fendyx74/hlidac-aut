@@ -9,7 +9,7 @@
    "videno": "2026-11-09"
   },
   "https://auto.bazos.cz/inzerat/225977622/skoda-rapid-monte-carlo.php": {
-   "cena": 159999,
+   "cena": 150000,
    "videno": "2026-11-26"
   },
   "https://www.sauto.cz/osobni/detail/skoda/rapid/210299765": {
@@ -45,8 +45,8 @@
    "videno": "2026-11-10"
   },
   "https://www.sauto.cz/osobni/detail/skoda/rapid/210731435": {
-   "cena": 230000,
-   "videno": "2026-11-20"
+   "cena": 207000,
+   "videno": "2026-11-26"
   },
   "https://auto.bazos.cz/inzerat/225970035/skoda-rapid-monte-carlo-10-tsi-81-kw-odpocet-dph.php": {
    "cena": 245000,
@@ -149,7 +149,7 @@
    "videno": "2026-11-10"
   },
   "https://www.autobazar.eu/detail/skoda-rapid-12-tsi-110k-monte-carlo-81kw110hp-m6/AeBcmsEa0_-/": {
-   "cena": 207697,
+   "cena": 207867,
    "videno": "2026-11-26"
   },
   "https://auto.bazos.cz/inzerat/224696854/skoda-rapid-10-tsi-81kw-monte-carlo.php": {
@@ -408,7 +408,7 @@
    "kw": 81,
    "prevodovka": null,
    "karoserie": "Hatchback",
-   "videno": "2026-11-20"
+   "videno": "2026-11-26"
   },
   "https://www.sauto.cz/osobni/detail/skoda/rapid/210725783": {
    "popis": "Škoda Rapid Hatchback je oblíbená volba díky své cenové dostupnosti a pohodlnému interiéru. Nabízí praktickou výbavu a kompaktní karoserii ideální pro městský provoz.\n\nTato Škoda Rapid, původem z ČR, je vybavena benzínovým motorem 1.0 TSI o objemu 999 ccm s výkonem 81 kW. Vozidlo má elektronickou servisní knížku.    Vůz nabízí bi-xenonové a xenonové světlomety pro lepší viditelnost. Sedadla jsou sportovní a vyhřívaná vpředu, což zvyšuje komfort při jízdě. Klimatizace je automatická. Volant je kožený a multifunkční. Konektivita zahrnuje Android Auto, Apple CarPlay, MirrorLink a Bluetooth pro snadné telefonování.",
@@ -570,11 +570,11 @@
   }
  },
  "souhrn": {
-  "kontrola": "26.11.2026 02:44",
-  "vyhovuje": 15,
+  "kontrola": "26.11.2026 17:46",
+  "vyhovuje": 16,
   "nove": 0,
-  "zlevnene": 0,
-  "nejlevnejsi": 159999,
+  "zlevnene": 2,
+  "nejlevnejsi": 150000,
   "chyby": []
  }
 }
