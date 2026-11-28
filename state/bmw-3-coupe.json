@@ -437,7 +437,7 @@
    "videno": "2026-11-28"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-3-ID6IjkxJ.html": {
-   "cena": 218720,
+   "cena": 215986,
    "videno": "2026-11-28"
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-3-ID6Ik9QZ.html": {
@@ -506,6 +506,14 @@
   },
   "https://www.otomoto.pl/osobowe/oferta/bmw-seria-3-ID6IkzWu.html": {
    "cena": 224188,
+   "videno": "2026-11-28"
+  },
+  "https://auto.bazos.cz/inzerat/227062387/e46-328ci.php": {
+   "cena": 150000,
+   "videno": "2026-11-28"
+  },
+  "https://www.otomoto.pl/osobowe/oferta/bmw-seria-3-ID6IkSTJ.html": {
+   "cena": 180444,
    "videno": "2026-11-28"
   }
  },
@@ -716,7 +724,7 @@
    "km": null,
    "kw": 130,
    "prevodovka": null,
-   "videno": "2026-11-20"
+   "videno": "2026-11-28"
   },
   "https://auto.bazos.cz/inzerat/226256790/bmw-e92-320d-130kw-2007.php": {
    "popis": "BMW E92 320d | 130 kW | Rok 2007 | STK do 2028 Prodám BMW řady 3 Coupé (E92) s motorizací 320d o výkonu 130 kW, rok výroby 2007. Vozidlo má najeto 260 000 km a platnou technickou kontrolu až do roku 2028. Velkou výhodou je příjemná spotřeba, která se pohybuje kolem 5,8 l/100 km. Výbava: * Sportovní anatomická sedadla * Kožený / polokožený interiér * Tříramenný kožený multifunkční volant * Odkládací držáky nápojů v palubní desce * Přední i zadní parkovací senzory Závady a nedostatky: * Horší silentbloky ramen * Projevuje se přední ložisko kola * Drobné kosmetické vady odpovídající stáří vozidla * Chybí krytka ostřikovače předního světlometu * Dle diagnostiky vadné čidlo diferenčního tlaku DPF filtru Závady uvádím na rovinu, aby nový majitel přesně věděl, co kupuje. BMW je vhodné pro někoho, kdo hledá atraktivní kupé s příjemnou spotřebou a nevadí mu odstranit uvedené nedostatky. Více informací rád sdělím po telefonu nebo ve zprávách. Prohlídka a vyzkoušení po domluvě.",
@@ -869,12 +877,20 @@
    "kw": null,
    "prevodovka": null,
    "videno": "2026-11-28"
+  },
+  "https://auto.bazos.cz/inzerat/227062387/e46-328ci.php": {
+   "popis": "BMW E46 Coupe – 2.8i (M52B28TU) | Top stav, vyztužený podvozek Ahoj / Dobrý den, prodám udržované a pečlivě servisované BMW E46 Coupé s legendárním šestiválcem 2.8i (M52B28TU). Auto je dovezené z Německa (v ČR 1 rok), jedná se o opravdu pěkný, zachovalý a poctivě postavený kousek. Bez nutných investic – stačí sednout a jet. Najeto: 307 000 km STK: Nová Karoserie: Bez koroze, zvedací body na 100 %! Servis & Motor: Motor komplet přetěsněn (včetně přetěsněné DISA klapky a VANOSu). Rozvody + vodní pumpa: Děláno ve 300 000 km. Olej: Měněn pravidelně (Millers Oils) každých 5 000 km Klimatizace plna (jde) Svíčky nove. Výfuk: Nerezové svody (skvělý zvuk i průběh výkonu). Podvozek, Karoserie & Brzdy: Vyztužená zadní náprava: Navařené výztužné plechy na uchycení zadní klece/nápravnice (prevence vytržení) + kompletní ošetření proti korozi. Přední tlumiče: Sachs Performance. Zadní tlumiče: Bilstein B8. Přední ramena: Lemförder. Uložení/Silentbloky: Strongflex vpředu i vzadu. Zadní náprava: Nastavitelné odklony (štelovací ramena vzadu). Brzdy: Nové pakny ruční brzdy vzadu. Exteriér & Interiér: Kola: OZ Superturismo. Exteriér: M-Paket přední nárazník. Interiér: Černá stropnice (čerstvě nově přešitá), M nášlapy prahů. Zpevnění karoserie: Rozpěrné tyče v motorovém prostoru i v kufru. Auto je pevné, nikde nic nemlátí a podvozek funguje perfektně. Poprosím jen vážné zájemce.",
+   "rok": null,
+   "km": 307000,
+   "kw": null,
+   "prevodovka": null,
+   "videno": "2026-11-28"
   }
  },
  "souhrn": {
-  "kontrola": "28.11.2026 02:25",
-  "vyhovuje": 44,
-  "nove": 0,
+  "kontrola": "28.11.2026 16:26",
+  "vyhovuje": 45,
+  "nove": 2,
   "zlevnene": 1,
   "nejlevnejsi": 150000,
   "chyby": []

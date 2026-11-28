@@ -134,7 +134,7 @@
   },
   "https://www.sauto.cz/osobni/detail/audi/tt/210903636": {
    "cena": 170000,
-   "videno": "2026-11-24"
+   "videno": "2026-11-28"
   },
   "https://www.otomoto.pl/osobowe/oferta/audi-tt-ID6IhFeN.html": {
    "cena": 165287,
@@ -494,6 +494,14 @@
   },
   "https://www.otomoto.pl/osobowe/oferta/audi-tt-ID6If2Qz.html": {
    "cena": 183178,
+   "videno": "2026-11-28"
+  },
+  "https://www.sbazar.cz/autovsetin/detail/230028041-audi-tt-18t-quattro-165kw": {
+   "cena": 163000,
+   "videno": "2026-11-28"
+  },
+  "https://auto.bazos.cz/inzerat/227051879/audi-tt-20-tfsi-147-kw-fwd.php": {
+   "cena": 200000,
    "videno": "2026-11-28"
   }
  },
@@ -921,12 +929,28 @@
    "kw": null,
    "prevodovka": null,
    "videno": "2026-11-28"
+  },
+  "https://auto.bazos.cz/inzerat/227051879/audi-tt-20-tfsi-147-kw-fwd.php": {
+   "popis": "Prodám/vyměním Audi TT, rok 2007, motor 2.0 TFSI 147 kW, nájezd 306 000 km. Auto má za sebou řadu servisních oprav a investic, mimo jiné kompletní rozvody, novou turboregulaci, výměnu olejů a filtrů a další opravy. V poslední době řešeno například: - Kompletní rozvody - Turboregulace - Komfortní jednotka - Baterie - Těsnění ventilového víka - Těsnění olejového domku - Separátor - Výměník chlazení oleje - Sekundární čerpadlo chladicí kapaliny - Nádržka chladicí kapaliny s víčkem - Olej v převodovce - Motorový olej 5W40 - Kompletní filtry - Opravy výfuku - Brzdové destičky a kontrola brzd - Další drobné opravy K autu se najde kosmetika a nějaké další investice by se určitě našly, proto zohledněno v ceně. Najde se někdo, kdo si TT ještě doladí podle sebe a bude mu dělat radost. Více informací po telefonu nebo zprávě.",
+   "rok": 2007,
+   "km": 306000,
+   "kw": 147,
+   "prevodovka": null,
+   "videno": "2026-11-28"
+  },
+  "https://www.sbazar.cz/autovsetin/detail/230028041-audi-tt-18t-quattro-165kw": {
+   "popis": "Audi TT \n1.8T Quattro 165kw / 225PS\n2.2021\n183500km\n\nPokud vás nabídka zaujala, volejte, máme více Audi TT 8N na kterých pracujeme a ještě nejsou vystaveny na internetu.\n\nNebudeme se rozepisovat o výbavě, kdo takové auto chce koupit asi zná.\n\nNapíši jen že auto je kompletně opraveno v našem autoservisu ve Vsetíně kde se vozy Audi TT zabýváme už desetiletí.\nJedná se o další originální kus z dlouhé řady aut, které jsme dovezli převážně u Belgie, Holandska Francie a Německa.\nChystáme je pro prodej do originálního stavu jako při prodeji nového vozu.\nV autě je originální software ŘJ motoru, dle domluvy lze v našem servisu dále ladit motor na vyšší výkon.\n\nProvedený servis na tomto TT:\nopraveny palubní přístroje (budíky) včetně nového maxidotu,\nnová sada rozvodového řemene + rozvodového řetězu včetně hydr.napínáku, termostat Mahle,\nolej motoru OMV 5W30 + filtry oleje vzduchu kabiny, nová náplň klimatizace + desinfekce klimy, čištění vozu mokrou cestou.",
+   "rok": null,
+   "km": 183500,
+   "kw": 165,
+   "prevodovka": null,
+   "videno": "2026-11-28"
   }
  },
  "souhrn": {
-  "kontrola": "28.11.2026 02:26",
-  "vyhovuje": 46,
-  "nove": 0,
+  "kontrola": "28.11.2026 16:27",
+  "vyhovuje": 48,
+  "nove": 2,
   "zlevnene": 0,
   "nejlevnejsi": 152557,
   "chyby": []
